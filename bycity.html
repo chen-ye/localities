@@ -295,9 +295,9 @@
                     const walkingBounds = keyCity.select('#ON_FOOT .centroid').node().getBoundingClientRect();
                     const vehicleBounds = keyCity.select('#IN_VEHICLE .centroid').node().getBoundingClientRect();
                     const cyclingBounds = keyCity.select('#ON_BICYCLE .centroid').node().getBoundingClientRect();
-                    const yOffset = cyclingBounds.y + cyclingBounds.height;
+                    const yOffset = -containerBounds.y + cyclingBounds.y + cyclingBounds.height;
                     const yIncrement = 64;
-                    const x = 340;
+                    const x = 320;
                     const annotations = [
                         {
                             note: {
