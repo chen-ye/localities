@@ -96,8 +96,15 @@
         .city {
             display: flex;
             flex-direction: column;
+            background: transparent;
+            transition: background .5s ease, box-shadow .5s ease;
             /* flex-grow: 2; */
             /* margin: 16px; */
+        }
+
+        .city:hover {
+            background: white;
+            box-shadow: 0 16px 64px 0px rgba(0, 0, 0, .2);
         }
 
         #key-city .pie-container {
@@ -110,6 +117,9 @@
             overflow: hidden;
             text-align: center;
             text-transform: uppercase;
+            margin-bottom: 32px;
+            box-sizing: border-box;
+            padding: 0 16px;
         }
 
         .pie-container {
@@ -117,7 +127,6 @@
             height: 192px;
             width: 192px;
             margin: 16px 0;
-            /* background: black; */
         }
 
         .pie-container svg {
@@ -127,6 +136,15 @@
             right: 0;
             width: 100%;
             height: 100%;
+            transition: transform .5s ease;
+        }
+        
+        .city:hover .pie-container svg {
+            transform: scale(.6) !important;
+        }
+
+        #key-city .city:hover .pie-container svg {
+            transform: scale(.8) !important;
         }
 
         .annotation-group {
