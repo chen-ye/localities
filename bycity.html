@@ -54,6 +54,8 @@
         #header {
             display: flex;
             justify-content: flex-start;
+            align-items: flex-end;
+            flex-wrap: wrap-reverse;
         }
 
         #header-text {
@@ -73,10 +75,8 @@
         }
 
         #key-city {
-            width: 416px;
-            display: flex;
-            flex-shrink: 0;
-            /* justify-content: flex-end; */
+            width: 384px;
+            position: relative;
         }
 
         #key-city .annotation-group {
@@ -137,6 +137,11 @@
             width: 100%;
             height: 100%;
             transition: transform .5s ease;
+        }
+        
+        .centroid {
+            fill: black;
+            opacity: 0;
         }
         
         .city:hover .pie-container svg {
@@ -286,19 +291,20 @@
 
                 function renderLabels() {
                     const keyCity = d3.select('#key-city');
+                    const containerBounds = keyCity.node().getBoundingClientRect();
                     const walkingBounds = keyCity.select('#ON_FOOT .centroid').node().getBoundingClientRect();
                     const vehicleBounds = keyCity.select('#IN_VEHICLE .centroid').node().getBoundingClientRect();
                     const cyclingBounds = keyCity.select('#ON_BICYCLE .centroid').node().getBoundingClientRect();
                     const yOffset = cyclingBounds.y + cyclingBounds.height;
                     const yIncrement = 64;
-                    const x = 400;
+                    const x = 340;
                     const annotations = [
                         {
                             note: {
                                 title: 'Cycling'
                             },
-                            x: cyclingBounds.x + cyclingBounds.width,
-                            y: cyclingBounds.y + cyclingBounds.height,
+                            x: -containerBounds.x + cyclingBounds.x + cyclingBounds.width,
+                            y: -containerBounds.y + cyclingBounds.y + cyclingBounds.height,
                             nx: x,
                             ny: yOffset,
                             color: cyclingTextColor
@@ -307,8 +313,8 @@
                             note: {
                                 title: 'Walking'
                             },
-                            x: walkingBounds.x + walkingBounds.width,
-                            y: walkingBounds.y + walkingBounds.height,
+                            x: -containerBounds.x + walkingBounds.x + walkingBounds.width,
+                            y: -containerBounds.y +walkingBounds.y + walkingBounds.height,
                             nx: x,
                             ny: yOffset + 1 * yIncrement,
                             color: walkingTextColor
@@ -318,8 +324,8 @@
                                 title: 'In a Vehicle',
                                 // label: 'Car, Bus, Train, etc'
                             },
-                            x: vehicleBounds.x + vehicleBounds.width,
-                            y: vehicleBounds.y + vehicleBounds.height,
+                            x: -containerBounds.x + vehicleBounds.x + vehicleBounds.width,
+                            y: -containerBounds.y + vehicleBounds.y + vehicleBounds.height,
                             nx: x,
                             ny: yOffset + 2 * yIncrement,
                             color: vehicleTextColor
