@@ -215,7 +215,8 @@
                 const color = d3.scaleOrdinal([vehicleColor, cyclingColor, walkingColor, walkingColor, runningColor])
                     .domain(['IN_VEHICLE', 'ON_BICYCLE', 'ON_FOOT', 'WALKING', 'RUNNING']);
 
-                const radius = 192 / 2;
+                const radius = 188 / 2;
+                const middle = 192 / 2;
 
                 const path = d3.arc()
                     .outerRadius(radius)
@@ -250,7 +251,7 @@
                             return `transform: scale(${rScale})`
                         })
                         .append('g')
-                        .attr('style', 'transform: translate(50%, 50%)');
+                        .attr('transform', `translate(${middle}, ${middle})`);
 
                     const newArc = pie.selectAll('.arc')
                         .data((d) => {
