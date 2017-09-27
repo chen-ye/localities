@@ -1,185 +1,201 @@
 <html>
-    <head>
-        <script src="https://d3js.org/d3.v4.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-annotation/2.0.0/d3-annotation.min.js"></script>
-        <link href="https://fonts.googleapis.com/css?family=Unica+One|Work+Sans:400,600" rel="stylesheet">
-        <style>
-            body, html {
-                margin: 0;
-                font-family: 'Work Sans', sans-serif;
-                color: #403F4C;
-                font-size: 1em;
-                background: #e8eaf6;
-            }
 
-            h1 {
-                font-family: 'Unica One', cursive;
-                font-size: 3.998em;
-            }
+<head>
+    <title>Localities + Modalities</title>
+    <meta property='og:type' content='article' />
+    <meta property='og:title' content='Localities + Modalities' />
+    <meta property='og:image' content='thumbnail.png' />
+    <meta name="author" content="Chen Ye" />    
+    <meta property='article:author' content='https://www.facebook.com/cye' />
+    <script src='https://d3js.org/d3.v4.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/d3-annotation/2.0.0/d3-annotation.min.js'></script>
+    <link href='https://fonts.googleapis.com/css?family=Unica+One|Work+Sans:400,600' rel='stylesheet'>
+    <style>
+        body,
+        html {
+            margin: 0;
+            font-family: 'Work Sans', sans-serif;
+            color: #403F4C;
+            font-size: 1em;
+            background: #e8eaf6;
+        }
 
-            p {
-                line-height: 1.4rem;
-            }
+        h1 {
+            font-family: 'Unica One', cursive;
+            font-size: 3.998em;
+        }
 
-            a {
-                color: #3949ab;
-            }
+        p {
+            line-height: 1.4rem;
+        }
 
-            a:active {
-                color: #9c27b0;
-            }
+        a {
+            color: #3949ab;
+        }
 
-            .secondary {
-                color: #90a4ae;
-                font-size: .8em;
-                line-height: 1.2rem;
-            }
+        a:active {
+            color: #9c27b0;
+        }
 
-            .secondary a {
-                color: #90a4ae;
-            }
+        .secondary {
+            color: #90a4ae;
+            font-size: .8em;
+            line-height: 1.2rem;
+        }
 
-            #page-container {
-                padding: 32px;
-            }
+        .secondary a {
+            color: #90a4ae;
+        }
 
-            #header {
-                display: flex;
-                justify-content: flex-start;
-            }
+        #page-container {
+            padding: 32px;
+        }
 
-            #header-text {
-                margin: 0 24px;
-                flex-shrink: 2;
-                max-width: 640px;
-            }
+        #header {
+            display: flex;
+            justify-content: flex-start;
+        }
 
-            #header-text h1 {
-                margin-top: 0;
-                margin-bottom: .2em;
-                text-transform: uppercase;
-            }
+        #header-text {
+            margin: 0 24px;
+            flex-shrink: 2;
+            max-width: 640px;
+        }
 
-            #header-text p {
-                margin-left: .2em;
-            }
+        #header-text h1 {
+            margin-top: 0;
+            margin-bottom: .2em;
+            text-transform: uppercase;
+        }
 
-            #key-city {
-                width: 416px;
-                display: flex;
-                flex-shrink: 0;
-                /* justify-content: flex-end; */
-            }
+        #header-text p {
+            margin-left: .2em;
+        }
 
-            #key-city .annotation-group {
-                position: absolute;
-                width: 100%;
-                height: 100%;
-                left: 0;
-                top: 0;
-            }
+        #key-city {
+            width: 416px;
+            display: flex;
+            flex-shrink: 0;
+            /* justify-content: flex-end; */
+        }
 
-            #cities {
-                display: flex;
-                flex-wrap: wrap;
-                /* justify-content: space-between; */
-            }
+        #key-city .annotation-group {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            left: 0;
+            top: 0;
+        }
 
-            .city {
-                display: flex;
-                flex-direction: column;
-                /* flex-grow: 2; */
-                /* margin: 16px; */
-            }
+        #cities {
+            display: flex;
+            flex-wrap: wrap;
+            /* justify-content: space-between; */
+        }
 
-            #key-city .pie-container {
-                height: 208px;
-                width: 192px;
-            }
+        .city {
+            display: flex;
+            flex-direction: column;
+            /* flex-grow: 2; */
+            /* margin: 16px; */
+        }
 
-            .city-label {
-                width: 192px;
-                overflow: hidden;
-                text-align: center;
-                text-transform: uppercase;
-            }
+        #key-city .pie-container {
+            height: 208px;
+            width: 192px;
+        }
 
-            .pie-container {
-                position: relative;
-                height: 192px;
-                width: 192px;
-                margin: 16px 0;
-                /* background: black; */
-            }
+        .city-label {
+            width: 192px;
+            overflow: hidden;
+            text-align: center;
+            text-transform: uppercase;
+        }
 
-            .pie-container svg {
-                top: 0;
-                bottom: 0;
-                left: 0;
-                right: 0;
-                width: 100%;
-                height: 100%;
-            }
+        .pie-container {
+            position: relative;
+            height: 192px;
+            width: 192px;
+            margin: 16px 0;
+            /* background: black; */
+        }
 
-            .annotation-group {
-                pointer-events: none;
-                color: #403F4C;
-            }
+        .pie-container svg {
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            width: 100%;
+            height: 100%;
+        }
 
-            .annotation-group .annotation.custom {
-                pointer-events: all;
-            }
+        .annotation-group {
+            pointer-events: none;
+            color: #403F4C;
+        }
 
-            .annotation.custom .connector {
-                stroke: #403F4C;
-                stroke-dasharray: 5, 5;
-            }
+        .annotation-group .annotation.custom {
+            pointer-events: all;
+        }
 
-            .annotation.custom .connector-end {
-                stroke: #403F4C;
-                fill: #403F4C;
-            }
-        </style>
-    </head>
-    <body>
-        <div id="page-container">
-            <div id="header">
-                <div id="key-city"></div>
-                <div id="header-text">
-                    <h1>Localities + Modalities</h1>
-                    <p>A visualisation of all the cities I've visited or lived in, and all the modes of transit I've used.</p>
-                    <p class="secondary">Created by <a rel="cc:attributionURL" href="http://cye.me">Chen Ye</a>. Data sourced from my <a href="https://maps.google.com/locationhistory/b/0">Google Location History</a>, geocoded using the <a href="http://geocoder.readthedocs.io/providers/Bing.html">Bing Maps API + Python</a>, and visualized using <a href="https://d3js.org/">D3.js</a>. Note that Location History frequency is dependent on several factors, including phone type, phone battery life, and phone use patterns. <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA</a></p>
-                </div>
-            </div>
-            
-            <div id="cities">
+        .annotation.custom .connector {
+            stroke: #403F4C;
+            stroke-dasharray: 5, 5;
+        }
+
+        .annotation.custom .connector-end {
+            stroke: #403F4C;
+            fill: #403F4C;
+        }
+    </style>
+</head>
+
+<body>
+    <div id='page-container'>
+        <div id='header'>
+            <div id='key-city'></div>
+            <div id='header-text'>
+                <h1>Localities + Modalities</h1>
+                <p>A visualisation of all the cities I've visited or lived in, and all the modes of transit I've used.</p>
+                <p class='secondary'>Created by
+                    <a rel='cc:attributionURL' href='http://cye.me'>Chen Ye</a>. Data sourced from my
+                    <a href='https://maps.google.com/locationhistory/b/0'>Google Location History</a>, geocoded using the
+                    <a href='http://geocoder.readthedocs.io/providers/Bing.html'>Bing Maps API + Python</a>, and visualized using
+                    <a href='https://d3js.org/'>D3.js</a>. Note that Location History frequency is dependent on several factors, including phone type,
+                    phone battery life, and phone use patterns.
+                    <a rel='license' href='http://creativecommons.org/licenses/by-sa/4.0/'>CC-BY-SA</a>
+                </p>
             </div>
         </div>
-        <script>
-            const cities = d3.select("#cities");
 
-            fetch('byCity.json').then(function(response) {
-                return response.json();
-            })
-            .then(function(json) { 
+        <div id='cities'>
+        </div>
+    </div>
+    <script>
+        const cities = d3.select('#cities');
+
+        fetch('byCity.json').then(function (response) {
+            return response.json();
+        })
+            .then(function (json) {
                 const pieGen = d3.pie()
                     .value((d) => {
                         return d.value;
                     })
                     .sort(null);
 
-                const vehicleColor = "#2E5EAA";
-                const cyclingColor = "#ec407a";
-                const walkingColor = "#736396";
-                const runningColor = "#593959";
+                const vehicleColor = '#2E5EAA';
+                const cyclingColor = '#ec407a';
+                const walkingColor = '#736396';
+                const runningColor = '#593959';
 
-                const vehicleTextColor = "#3949ab";
-                const cyclingTextColor = "#d81b60";
-                const walkingTextColor = "#9c27b0";
-                const runningTextColor = "#d05ce3";
+                const vehicleTextColor = '#3949ab';
+                const cyclingTextColor = '#d81b60';
+                const walkingTextColor = '#9c27b0';
+                const runningTextColor = '#d05ce3';
 
                 const color = d3.scaleOrdinal([vehicleColor, cyclingColor, walkingColor, walkingColor, runningColor])
-                    .domain(["IN_VEHICLE", "ON_BICYCLE", "ON_FOOT", "WALKING", "RUNNING"]);
+                    .domain(['IN_VEHICLE', 'ON_BICYCLE', 'ON_FOOT', 'WALKING', 'RUNNING']);
 
                 const radius = 192 / 2;
 
@@ -193,64 +209,64 @@
 
                 function render() {
 
-                    const city = cities.selectAll(".city").data(bodyCities);
+                    const city = cities.selectAll('.city').data(bodyCities);
                     renderCity(city.enter());
 
-                    const keyCity = d3.select("#key-city").data(keyCityData);
-                    renderCity(keyCity);    
+                    const keyCity = d3.select('#key-city').data(keyCityData);
+                    renderCity(keyCity);
 
-                    renderLabels();           
+                    renderLabels();
                 }
 
                 function renderCity(cityEnterSelection) {
                     const newCity = cityEnterSelection.append('div')
-                        .attr("class", "city")
-                        .attr("id", (d) => d.key);
-                    
-                    const pie = newCity.append("div")
-                        .attr("class", "pie-container")
-                    .append("svg")
+                        .attr('class', 'city')
+                        .attr('id', (d) => d.key);
+
+                    const pie = newCity.append('div')
+                        .attr('class', 'pie-container')
+                        .append('svg')
                         .attr('style', (d) => {
-                            const areaScale = d.value['totalCount']/maxTotalCount;
-                            const rScale = Math.sqrt(areaScale/Math.PI) * 1.9;
+                            const areaScale = d.value['totalCount'] / maxTotalCount;
+                            const rScale = Math.sqrt(areaScale / Math.PI) * 1.9;
                             return `transform: scale(${rScale})`
                         })
-                    .append('g')
+                        .append('g')
                         .attr('style', 'transform: translate(50%, 50%)');
 
-                    const newArc = pie.selectAll(".arc")
+                    const newArc = pie.selectAll('.arc')
                         .data((d) => {
                             return pieGen(d3.entries(d.value['typeCounts']));
                         })
-                    .enter()
+                        .enter()
                         .append('g')
-                            .attr("class", "arc")
-                            .attr("id", (d) => d.data.key)
+                        .attr('class', 'arc')
+                        .attr('id', (d) => d.data.key)
 
-                    newArc.append("rect")
-                            .attr("class", "centroid")
-                            .attr("x", (d) => {
-                                return label.centroid(d)[0];
-                            })
-                            .attr("y", (d) => {
-                                return label.centroid(d)[1];
-                            })
-                            .attr('width', 1)
-                            .attr('height', 1)
+                    newArc.append('rect')
+                        .attr('class', 'centroid')
+                        .attr('x', (d) => {
+                            return label.centroid(d)[0];
+                        })
+                        .attr('y', (d) => {
+                            return label.centroid(d)[1];
+                        })
+                        .attr('width', 1)
+                        .attr('height', 1)
 
-                    newArc.append("path")
-                        .attr("d", path)
-                        .attr("fill", function(d) { return color(d.data.key); });
-                    
-                    newCity.append("div")
-                        .attr("class", "city-label")
+                    newArc.append('path')
+                        .attr('d', path)
+                        .attr('fill', function (d) { return color(d.data.key); });
+
+                    newCity.append('div')
+                        .attr('class', 'city-label')
                         .text((d) => {
                             return d.key;
                         });
                 }
 
                 function renderLabels() {
-                    const keyCity = d3.select("#key-city");
+                    const keyCity = d3.select('#key-city');
                     const walkingBounds = keyCity.select('#ON_FOOT .centroid').node().getBoundingClientRect();
                     const vehicleBounds = keyCity.select('#IN_VEHICLE .centroid').node().getBoundingClientRect();
                     const cyclingBounds = keyCity.select('#ON_BICYCLE .centroid').node().getBoundingClientRect();
@@ -292,11 +308,15 @@
                     ]
 
                     const annotationType = d3.annotationCustomType(
-                        d3.annotationCalloutElbow, 
-                        {"className":"custom",
-                            "connector":{"type":"elbow",
-                            "end":"dot"},
-                            "note":{"lineType":"horizontal", "align":"right",}}
+                        d3.annotationCalloutElbow,
+                        {
+                            'className': 'custom',
+                            'connector': {
+                                'type': 'elbow',
+                                'end': 'dot'
+                            },
+                            'note': { 'lineType': 'horizontal', 'align': 'right', }                        
+}
                     )
 
                     const makeAnnotations = d3.annotation()
@@ -306,13 +326,13 @@
                     const annotationSvg = keyCity.append('svg')
                         .attr('class', 'annotation-group')
                         .call(makeAnnotations);
-                    
+
                 }
 
                 // resize();
                 // d3.select(window).on('resize', resize);
 
-                const processedCities = d3.entries(json["byCity"]);
+                const processedCities = d3.entries(json['byCity']);
                 processedCities.forEach((city) => {
                     city.value['totalCount'] = Object.values(city.value['typeCounts']).reduce((inc, current) => {
                         return inc + current;
@@ -337,10 +357,11 @@
 
                 render();
 
-                
-             });
+
+            });
 
 
-        </script>
-    </body>
+    </script>
+</body>
+
 </html>
