@@ -1,0 +1,346 @@
+<html>
+    <head>
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-annotation/2.0.0/d3-annotation.min.js"></script>
+        <link href="https://fonts.googleapis.com/css?family=Unica+One|Work+Sans:400,600" rel="stylesheet">
+        <style>
+            body, html {
+                margin: 0;
+                font-family: 'Work Sans', sans-serif;
+                color: #403F4C;
+                font-size: 1em;
+                background: #e8eaf6;
+            }
+
+            h1 {
+                font-family: 'Unica One', cursive;
+                font-size: 3.998em;
+            }
+
+            p {
+                line-height: 1.4rem;
+            }
+
+            a {
+                color: #3949ab;
+            }
+
+            a:active {
+                color: #9c27b0;
+            }
+
+            .secondary {
+                color: #90a4ae;
+                font-size: .8em;
+                line-height: 1.2rem;
+            }
+
+            .secondary a {
+                color: #90a4ae;
+            }
+
+            #page-container {
+                padding: 32px;
+            }
+
+            #header {
+                display: flex;
+                justify-content: flex-start;
+            }
+
+            #header-text {
+                margin: 0 24px;
+                flex-shrink: 2;
+                max-width: 640px;
+            }
+
+            #header-text h1 {
+                margin-top: 0;
+                margin-bottom: .2em;
+                text-transform: uppercase;
+            }
+
+            #header-text p {
+                margin-left: .2em;
+            }
+
+            #key-city {
+                width: 416px;
+                display: flex;
+                flex-shrink: 0;
+                /* justify-content: flex-end; */
+            }
+
+            #key-city .annotation-group {
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                left: 0;
+                top: 0;
+            }
+
+            #cities {
+                display: flex;
+                flex-wrap: wrap;
+                /* justify-content: space-between; */
+            }
+
+            .city {
+                display: flex;
+                flex-direction: column;
+                /* flex-grow: 2; */
+                /* margin: 16px; */
+            }
+
+            #key-city .pie-container {
+                height: 208px;
+                width: 192px;
+            }
+
+            .city-label {
+                width: 192px;
+                overflow: hidden;
+                text-align: center;
+                text-transform: uppercase;
+            }
+
+            .pie-container {
+                position: relative;
+                height: 192px;
+                width: 192px;
+                margin: 16px 0;
+                /* background: black; */
+            }
+
+            .pie-container svg {
+                top: 0;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                width: 100%;
+                height: 100%;
+            }
+
+            .annotation-group {
+                pointer-events: none;
+                color: #403F4C;
+            }
+
+            .annotation-group .annotation.custom {
+                pointer-events: all;
+            }
+
+            .annotation.custom .connector {
+                stroke: #403F4C;
+                stroke-dasharray: 5, 5;
+            }
+
+            .annotation.custom .connector-end {
+                stroke: #403F4C;
+                fill: #403F4C;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="page-container">
+            <div id="header">
+                <div id="key-city"></div>
+                <div id="header-text">
+                    <h1>Localities + Modalities</h1>
+                    <p>A visualisation of all the cities I've visited or lived in, and all the modes of transit I've used.</p>
+                    <p class="secondary">Created by <a rel="cc:attributionURL" href="http://cye.me">Chen Ye</a>. Data sourced from my <a href="https://maps.google.com/locationhistory/b/0">Google Location History</a>, geocoded using the <a href="http://geocoder.readthedocs.io/providers/Bing.html">Bing Maps API + Python</a>, and visualized using <a href="https://d3js.org/">D3.js</a>. Note that Location History frequency is dependent on several factors, including phone type, phone battery life, and phone use patterns. <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA</a></p>
+                </div>
+            </div>
+            
+            <div id="cities">
+            </div>
+        </div>
+        <script>
+            const cities = d3.select("#cities");
+
+            fetch('byCity.json').then(function(response) {
+                return response.json();
+            })
+            .then(function(json) { 
+                const pieGen = d3.pie()
+                    .value((d) => {
+                        return d.value;
+                    })
+                    .sort(null);
+
+                const vehicleColor = "#2E5EAA";
+                const cyclingColor = "#ec407a";
+                const walkingColor = "#736396";
+                const runningColor = "#593959";
+
+                const vehicleTextColor = "#3949ab";
+                const cyclingTextColor = "#d81b60";
+                const walkingTextColor = "#9c27b0";
+                const runningTextColor = "#d05ce3";
+
+                const color = d3.scaleOrdinal([vehicleColor, cyclingColor, walkingColor, walkingColor, runningColor])
+                    .domain(["IN_VEHICLE", "ON_BICYCLE", "ON_FOOT", "WALKING", "RUNNING"]);
+
+                const radius = 192 / 2;
+
+                const path = d3.arc()
+                    .outerRadius(radius)
+                    .innerRadius(0);
+
+                const label = d3.arc()
+                    .outerRadius(radius - 30)
+                    .innerRadius(radius - 30);
+
+                function render() {
+
+                    const city = cities.selectAll(".city").data(bodyCities);
+                    renderCity(city.enter());
+
+                    const keyCity = d3.select("#key-city").data(keyCityData);
+                    renderCity(keyCity);    
+
+                    renderLabels();           
+                }
+
+                function renderCity(cityEnterSelection) {
+                    const newCity = cityEnterSelection.append('div')
+                        .attr("class", "city")
+                        .attr("id", (d) => d.key);
+                    
+                    const pie = newCity.append("div")
+                        .attr("class", "pie-container")
+                    .append("svg")
+                        .attr('style', (d) => {
+                            const areaScale = d.value['totalCount']/maxTotalCount;
+                            const rScale = Math.sqrt(areaScale/Math.PI) * 1.9;
+                            return `transform: scale(${rScale})`
+                        })
+                    .append('g')
+                        .attr('style', 'transform: translate(50%, 50%)');
+
+                    const newArc = pie.selectAll(".arc")
+                        .data((d) => {
+                            return pieGen(d3.entries(d.value['typeCounts']));
+                        })
+                    .enter()
+                        .append('g')
+                            .attr("class", "arc")
+                            .attr("id", (d) => d.data.key)
+
+                    newArc.append("rect")
+                            .attr("class", "centroid")
+                            .attr("x", (d) => {
+                                return label.centroid(d)[0];
+                            })
+                            .attr("y", (d) => {
+                                return label.centroid(d)[1];
+                            })
+                            .attr('width', 1)
+                            .attr('height', 1)
+
+                    newArc.append("path")
+                        .attr("d", path)
+                        .attr("fill", function(d) { return color(d.data.key); });
+                    
+                    newCity.append("div")
+                        .attr("class", "city-label")
+                        .text((d) => {
+                            return d.key;
+                        });
+                }
+
+                function renderLabels() {
+                    const keyCity = d3.select("#key-city");
+                    const walkingBounds = keyCity.select('#ON_FOOT .centroid').node().getBoundingClientRect();
+                    const vehicleBounds = keyCity.select('#IN_VEHICLE .centroid').node().getBoundingClientRect();
+                    const cyclingBounds = keyCity.select('#ON_BICYCLE .centroid').node().getBoundingClientRect();
+                    const yOffset = cyclingBounds.y + cyclingBounds.height;
+                    const yIncrement = 64;
+                    const x = 400;
+                    const annotations = [
+                        {
+                            note: {
+                                title: 'Cycling'
+                            },
+                            x: cyclingBounds.x + cyclingBounds.width,
+                            y: cyclingBounds.y + cyclingBounds.height,
+                            nx: x,
+                            ny: yOffset,
+                            color: cyclingTextColor
+                        },
+                        {
+                            note: {
+                                title: 'Walking'
+                            },
+                            x: walkingBounds.x + walkingBounds.width,
+                            y: walkingBounds.y + walkingBounds.height,
+                            nx: x,
+                            ny: yOffset + 1 * yIncrement,
+                            color: walkingTextColor
+                        },
+                        {
+                            note: {
+                                title: 'In a Vehicle',
+                                // label: 'Car, Bus, Train, etc'
+                            },
+                            x: vehicleBounds.x + vehicleBounds.width,
+                            y: vehicleBounds.y + vehicleBounds.height,
+                            nx: x,
+                            ny: yOffset + 2 * yIncrement,
+                            color: vehicleTextColor
+                        }
+                    ]
+
+                    const annotationType = d3.annotationCustomType(
+                        d3.annotationCalloutElbow, 
+                        {"className":"custom",
+                            "connector":{"type":"elbow",
+                            "end":"dot"},
+                            "note":{"lineType":"horizontal", "align":"right",}}
+                    )
+
+                    const makeAnnotations = d3.annotation()
+                        .type(annotationType)
+                        .annotations(annotations)
+
+                    const annotationSvg = keyCity.append('svg')
+                        .attr('class', 'annotation-group')
+                        .call(makeAnnotations);
+                    
+                }
+
+                // resize();
+                // d3.select(window).on('resize', resize);
+
+                const processedCities = d3.entries(json["byCity"]);
+                processedCities.forEach((city) => {
+                    city.value['totalCount'] = Object.values(city.value['typeCounts']).reduce((inc, current) => {
+                        return inc + current;
+                    }, 0);
+                });
+
+                processedCities.sort((cityA, cityB) => {
+                    return cityB.value.totalCount - cityA.value.totalCount;
+                });
+
+                const maxTotalCount = processedCities.reduce((prev, current) => {
+                    return Math.max(prev, current.value['totalCount']);
+                }, 0);
+
+                const bodyCities = processedCities.filter((city) => {
+                    return city.key !== 'Providence';
+                });
+
+                const keyCityData = processedCities.filter((city) => {
+                    return city.key === 'Providence'
+                });
+
+                render();
+
+                
+             });
+
+
+        </script>
+    </body>
+</html>

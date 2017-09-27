@@ -1,0 +1,8213 @@
+{
+    "byCity": {
+        "Attleboro": {
+            "typeCounts": {
+                "ON_BICYCLE": 17,
+                "IN_VEHICLE": 186,
+                "ON_FOOT": 17
+            }
+        },
+        "South Burlington": {
+            "typeCounts": {
+                "IN_VEHICLE": 7
+            }
+        },
+        "Willimantic": {
+            "typeCounts": {
+                "ON_BICYCLE": 7,
+                "IN_VEHICLE": 9
+            }
+        },
+        "Delafield": {
+            "typeCounts": {
+                "IN_VEHICLE": 9
+            }
+        },
+        "Millville": {
+            "typeCounts": {
+                "ON_BICYCLE": 6,
+                "IN_VEHICLE": 4
+            }
+        },
+        "Schiller Park": {
+            "typeCounts": {
+                "IN_VEHICLE": 31
+            }
+        },
+        "Buchanan": {
+            "typeCounts": {
+                "ON_BICYCLE": 3,
+                "ON_FOOT": 1
+            }
+        },
+        "Gasport": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Millbury": {
+            "typeCounts": {
+                "IN_VEHICLE": 10
+            }
+        },
+        "Cedarhurst": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Havre de Grace": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "West Haven": {
+            "typeCounts": {
+                "IN_VEHICLE": 34
+            }
+        },
+        "Boonsboro": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Geneva": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Orinda": {
+            "typeCounts": {
+                "IN_VEHICLE": 8
+            }
+        },
+        "Shelby": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Dover": {
+            "typeCounts": {
+                "IN_VEHICLE": 13
+            }
+        },
+        "National Park": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "T\u00e1t": {
+            "typeCounts": {
+                "ON_BICYCLE": 7,
+                "IN_VEHICLE": 18,
+                "ON_FOOT": 10
+            }
+        },
+        "Balatonf\u00fcred": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Elmore": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "South Dartmouth": {
+            "typeCounts": {
+                "ON_BICYCLE": 1
+            }
+        },
+        "Cranston": {
+            "typeCounts": {
+                "ON_BICYCLE": 105,
+                "IN_VEHICLE": 56,
+                "ON_FOOT": 12
+            }
+        },
+        "Salt Lake City": {
+            "typeCounts": {
+                "IN_VEHICLE": 67,
+                "ON_FOOT": 10
+            }
+        },
+        "Rutland": {
+            "typeCounts": {
+                "IN_VEHICLE": 58,
+                "ON_FOOT": 5
+            }
+        },
+        "Rotterdam": {
+            "typeCounts": {
+                "ON_BICYCLE": 39,
+                "IN_VEHICLE": 208,
+                "ON_FOOT": 126
+            }
+        },
+        "Neulengbach": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Wilson": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Hempstead": {
+            "typeCounts": {
+                "IN_VEHICLE": 45,
+                "ON_FOOT": 16
+            }
+        },
+        "Bannockburn": {
+            "typeCounts": {
+                "ON_BICYCLE": 3,
+                "IN_VEHICLE": 2,
+                "ON_FOOT": 2
+            }
+        },
+        "Warren": {
+            "typeCounts": {
+                "ON_BICYCLE": 61,
+                "IN_VEHICLE": 3,
+                "ON_FOOT": 1
+            }
+        },
+        "Milltown": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Highwood": {
+            "typeCounts": {
+                "ON_BICYCLE": 1
+            }
+        },
+        "Rosemont": {
+            "typeCounts": {
+                "IN_VEHICLE": 9
+            }
+        },
+        "Sterling Heights": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Clarence": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "West Warwick": {
+            "typeCounts": {
+                "ON_BICYCLE": 41,
+                "IN_VEHICLE": 43,
+                "ON_FOOT": 6
+            }
+        },
+        "Dayville": {
+            "typeCounts": {
+                "ON_BICYCLE": 7,
+                "IN_VEHICLE": 4,
+                "ON_FOOT": 3
+            }
+        },
+        "Berlin Heights": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Monmouth Junction": {
+            "typeCounts": {
+                "IN_VEHICLE": 8
+            }
+        },
+        "Newark": {
+            "typeCounts": {
+                "ON_BICYCLE": 16,
+                "IN_VEHICLE": 139,
+                "ON_FOOT": 15
+            }
+        },
+        "Agoura Hills": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Lebanon": {
+            "typeCounts": {
+                "ON_BICYCLE": 22,
+                "IN_VEHICLE": 1
+            }
+        },
+        "Hot Sulphur Springs": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Trenton": {
+            "typeCounts": {
+                "IN_VEHICLE": 13
+            }
+        },
+        "Hamilton": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Szentendre": {
+            "typeCounts": {
+                "ON_BICYCLE": 17,
+                "IN_VEHICLE": 15,
+                "ON_FOOT": 26
+            }
+        },
+        "Bicske": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Winchester": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Westville": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "San Clemente": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Hedel": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Goodland": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Elmsford": {
+            "typeCounts": {
+                "ON_BICYCLE": 9,
+                "IN_VEHICLE": 21,
+                "ON_FOOT": 3
+            }
+        },
+        "Foxboro": {
+            "typeCounts": {
+                "ON_BICYCLE": 4,
+                "IN_VEHICLE": 41,
+                "ON_FOOT": 3
+            }
+        },
+        "Tiverton": {
+            "typeCounts": {
+                "ON_BICYCLE": 10,
+                "IN_VEHICLE": 12
+            }
+        },
+        "Brookfield": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Brandon": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "IN_VEHICLE": 31
+            }
+        },
+        "San Juan Capistrano": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Hoffman Estates": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Fall River": {
+            "typeCounts": {
+                "ON_BICYCLE": 24,
+                "IN_VEHICLE": 17,
+                "ON_FOOT": 4
+            }
+        },
+        "Davison Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Balatonf\u0151kaj\u00e1r": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Wallsee-Sindelburg": {
+            "typeCounts": {
+                "ON_BICYCLE": 20,
+                "IN_VEHICLE": 3,
+                "ON_FOOT": 7
+            }
+        },
+        "Palo Alto": {
+            "typeCounts": {
+                "ON_BICYCLE": 14,
+                "IN_VEHICLE": 112,
+                "ON_FOOT": 69
+            }
+        },
+        "Oshtemo Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Feldkirchen an der Donau": {
+            "typeCounts": {
+                "ON_BICYCLE": 6,
+                "IN_VEHICLE": 4
+            }
+        },
+        "Summerland Key": {
+            "typeCounts": {
+                "IN_VEHICLE": 29
+            }
+        },
+        "Elkhart": {
+            "typeCounts": {
+                "IN_VEHICLE": 18,
+                "ON_FOOT": 3
+            }
+        },
+        "Esperance": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Greenburgh": {
+            "typeCounts": {
+                "ON_BICYCLE": 10,
+                "IN_VEHICLE": 13,
+                "ON_FOOT": 4
+            }
+        },
+        "New Carlisle": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Abingdon": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Putney": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Norfolk": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "IN_VEHICLE": 27,
+                "ON_FOOT": 1
+            }
+        },
+        "Luftenberg an der Donau": {
+            "typeCounts": {
+                "ON_BICYCLE": 10,
+                "IN_VEHICLE": 1
+            }
+        },
+        "Alm\u00e1sf\u00fczit\u0151": {
+            "typeCounts": {
+                "ON_BICYCLE": 4,
+                "IN_VEHICLE": 1
+            }
+        },
+        "Independence": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Comstock": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Roseville": {
+            "typeCounts": {
+                "IN_VEHICLE": 9
+            }
+        },
+        "Levittown": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Tornyosn\u00e9meti": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Central Falls": {
+            "typeCounts": {
+                "ON_BICYCLE": 19,
+                "IN_VEHICLE": 22
+            }
+        },
+        "Jutigny": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Cooksville": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Hermosa Beach": {
+            "typeCounts": {
+                "ON_BICYCLE": 85,
+                "IN_VEHICLE": 91,
+                "ON_FOOT": 32
+            }
+        },
+        "Polo": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Poughkeepsie": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 10
+            }
+        },
+        "Iselin": {
+            "typeCounts": {
+                "IN_VEHICLE": 12
+            }
+        },
+        "Waardenburg": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Davis": {
+            "typeCounts": {
+                "IN_VEHICLE": 7
+            }
+        },
+        "Sankt Martin-Karlsbach": {
+            "typeCounts": {
+                "ON_BICYCLE": 5,
+                "IN_VEHICLE": 3
+            }
+        },
+        "Southborough": {
+            "typeCounts": {
+                "IN_VEHICLE": 8
+            }
+        },
+        "Paw Paw Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Herm\u00e9": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Nanjing": {
+            "typeCounts": {
+                "IN_VEHICLE": 47,
+                "ON_FOOT": 15
+            }
+        },
+        "New Haven": {
+            "typeCounts": {
+                "ON_BICYCLE": 4,
+                "IN_VEHICLE": 100,
+                "ON_FOOT": 1
+            }
+        },
+        "Monclova": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Amherst": {
+            "typeCounts": {
+                "IN_VEHICLE": 8
+            }
+        },
+        "Rocky River": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Winnetka": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 3
+            }
+        },
+        "Ansfelden": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Mickleton": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Old Greenwich": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Edon": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Coloma Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Arcadia": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Napavine": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Elizabeth": {
+            "typeCounts": {
+                "IN_VEHICLE": 18
+            }
+        },
+        "Howe": {
+            "typeCounts": {
+                "IN_VEHICLE": 11
+            }
+        },
+        "Svit": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Pennsauken Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Milpitas": {
+            "typeCounts": {
+                "ON_BICYCLE": 9,
+                "IN_VEHICLE": 3,
+                "ON_FOOT": 7
+            }
+        },
+        "East Greenwich Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 8
+            }
+        },
+        "Lower Southampton Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Pacifica": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Franklin Park": {
+            "typeCounts": {
+                "IN_VEHICLE": 12
+            }
+        },
+        "Vienna": {
+            "typeCounts": {
+                "ON_BICYCLE": 87,
+                "IN_VEHICLE": 105,
+                "ON_FOOT": 108
+            }
+        },
+        "Sankt Agatha": {
+            "typeCounts": {
+                "ON_BICYCLE": 3
+            }
+        },
+        "Oneida": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Vancouver": {
+            "typeCounts": {
+                "IN_VEHICLE": 21
+            }
+        },
+        "Biatorb\u00e1gy": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Jamesburg": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Stinson Beach": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Clermont": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Des Moines": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Lawnside": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Greenbelt": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Harrison Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Rolling Meadows": {
+            "typeCounts": {
+                "IN_VEHICLE": 23
+            }
+        },
+        "Metuchen": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Joppa": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Lennox": {
+            "typeCounts": {
+                "ON_BICYCLE": 1
+            }
+        },
+        "Carteret": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Libertyville": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 4,
+                "ON_FOOT": 3
+            }
+        },
+        "Leonia": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Burnsville": {
+            "typeCounts": {
+                "IN_VEHICLE": 8
+            }
+        },
+        "Fishkill": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Calabasas": {
+            "typeCounts": {
+                "IN_VEHICLE": 8,
+                "ON_FOOT": 1
+            }
+        },
+        "Wilmington": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Evanston": {
+            "typeCounts": {
+                "ON_BICYCLE": 13,
+                "IN_VEHICLE": 97,
+                "ON_FOOT": 21
+            }
+        },
+        "Lyndon Station, Village of": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Zagreb": {
+            "typeCounts": {
+                "IN_VEHICLE": 146,
+                "ON_FOOT": 148
+            }
+        },
+        "Orangetown": {
+            "typeCounts": {
+                "ON_BICYCLE": 16,
+                "IN_VEHICLE": 7,
+                "ON_FOOT": 4
+            }
+        },
+        "Scituate": {
+            "typeCounts": {
+                "ON_BICYCLE": 56,
+                "IN_VEHICLE": 19,
+                "ON_FOOT": 8
+            }
+        },
+        "Utrecht": {
+            "typeCounts": {
+                "IN_VEHICLE": 14,
+                "ON_FOOT": 3
+            }
+        },
+        "West Lincoln": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Tolland": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Rancho Palos Verdes": {
+            "typeCounts": {
+                "ON_BICYCLE": 19
+            }
+        },
+        "Mississauga": {
+            "typeCounts": {
+                "IN_VEHICLE": 13,
+                "ON_FOOT": 3
+            }
+        },
+        "Lake Station": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Cortlandt": {
+            "typeCounts": {
+                "ON_BICYCLE": 3,
+                "IN_VEHICLE": 3,
+                "ON_FOOT": 2
+            }
+        },
+        "Hoofddorp": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Granger": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Pomfret": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Methuen": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Wisconsin Dells": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Riverside": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 1
+            }
+        },
+        "Perry Hall": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Upper Moreland Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Nyack": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Rootstown": {
+            "typeCounts": {
+                "IN_VEHICLE": 9
+            }
+        },
+        "Swanton": {
+            "typeCounts": {
+                "IN_VEHICLE": 7
+            }
+        },
+        "Suben": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Robbinsville Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 10
+            }
+        },
+        "SeaTac": {
+            "typeCounts": {
+                "IN_VEHICLE": 22,
+                "ON_FOOT": 4
+            }
+        },
+        "Leiben": {
+            "typeCounts": {
+                "ON_BICYCLE": 6
+            }
+        },
+        "Ryan": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Los Angeles": {
+            "typeCounts": {
+                "ON_BICYCLE": 290,
+                "IN_VEHICLE": 229,
+                "ON_FOOT": 18
+            }
+        },
+        "Manns Choice": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "South Nyack": {
+            "typeCounts": {
+                "IN_VEHICLE": 16
+            }
+        },
+        "Villa Park": {
+            "typeCounts": {
+                "IN_VEHICLE": 16
+            }
+        },
+        "Rhinebeck": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Slunj": {
+            "typeCounts": {
+                "IN_VEHICLE": 9
+            }
+        },
+        "Cherry Hill": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Steyregg": {
+            "typeCounts": {
+                "ON_BICYCLE": 25,
+                "IN_VEHICLE": 1
+            }
+        },
+        "West Elgin": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Boardman Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Allenspark": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Buda\u00f6rs": {
+            "typeCounts": {
+                "ON_BICYCLE": 5,
+                "IN_VEHICLE": 11
+            }
+        },
+        "Lakewood": {
+            "typeCounts": {
+                "IN_VEHICLE": 15
+            }
+        },
+        "Kalama": {
+            "typeCounts": {
+                "IN_VEHICLE": 18
+            }
+        },
+        "Compton": {
+            "typeCounts": {
+                "ON_BICYCLE": 2
+            }
+        },
+        "Palmyra": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Middlesex Centre": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Belvedere": {
+            "typeCounts": {
+                "ON_BICYCLE": 3
+            }
+        },
+        "Castalia": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Hainburg an der Donau": {
+            "typeCounts": {
+                "ON_BICYCLE": 9,
+                "IN_VEHICLE": 6,
+                "ON_FOOT": 3
+            }
+        },
+        "Citrus Heights": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Dallas": {
+            "typeCounts": {
+                "ON_FOOT": 1
+            }
+        },
+        "Michelhausen": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Joint Base Lewis-McChord": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Behamberg": {
+            "typeCounts": {
+                "ON_BICYCLE": 5,
+                "IN_VEHICLE": 24,
+                "ON_FOOT": 2
+            }
+        },
+        "Northbridge": {
+            "typeCounts": {
+                "ON_BICYCLE": 11
+            }
+        },
+        "Rochester": {
+            "typeCounts": {
+                "ON_BICYCLE": 7,
+                "IN_VEHICLE": 14
+            }
+        },
+        "Glocester": {
+            "typeCounts": {
+                "ON_BICYCLE": 12,
+                "IN_VEHICLE": 1,
+                "ON_FOOT": 1
+            }
+        },
+        "Providence": {
+            "typeCounts": {
+                "ON_BICYCLE": 1333,
+                "IN_VEHICLE": 7851,
+                "ON_FOOT": 3522
+            }
+        },
+        "Little Beaver Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "S\u00fctt\u0151": {
+            "typeCounts": {
+                "ON_BICYCLE": 1
+            }
+        },
+        "Gbelce": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Universal City": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 2,
+                "ON_FOOT": 18
+            }
+        },
+        "Burrillville": {
+            "typeCounts": {
+                "ON_BICYCLE": 1
+            }
+        },
+        "Brighton": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Meggenhofen": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Perrinton": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Tivoli": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Nanuet": {
+            "typeCounts": {
+                "IN_VEHICLE": 9
+            }
+        },
+        "Xiamen": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 55,
+                "ON_FOOT": 60
+            }
+        },
+        "Zaltbommel": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Rumford": {
+            "typeCounts": {
+                "ON_BICYCLE": 112,
+                "IN_VEHICLE": 49,
+                "ON_FOOT": 16
+            }
+        },
+        "Stockton": {
+            "typeCounts": {
+                "IN_VEHICLE": 9
+            }
+        },
+        "Hartwick": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Colonie": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Esztergom": {
+            "typeCounts": {
+                "ON_BICYCLE": 3,
+                "IN_VEHICLE": 3,
+                "ON_FOOT": 3
+            }
+        },
+        "Westmont": {
+            "typeCounts": {
+                "IN_VEHICLE": 57,
+                "ON_FOOT": 2
+            }
+        },
+        "Deerfield": {
+            "typeCounts": {
+                "ON_BICYCLE": 6,
+                "IN_VEHICLE": 109,
+                "ON_FOOT": 19
+            }
+        },
+        "Round Mountain": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Charenton-le-Pont": {
+            "typeCounts": {
+                "ON_BICYCLE": 6,
+                "IN_VEHICLE": 2,
+                "ON_FOOT": 3
+            }
+        },
+        "Juniata Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Florida City": {
+            "typeCounts": {
+                "IN_VEHICLE": 5,
+                "ON_FOOT": 4
+            }
+        },
+        "Hyde Park": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Minooka": {
+            "typeCounts": {
+                "IN_VEHICLE": 8
+            }
+        },
+        "Montrose": {
+            "typeCounts": {
+                "ON_BICYCLE": 1
+            }
+        },
+        "Slatersville": {
+            "typeCounts": {
+                "ON_BICYCLE": 2
+            }
+        },
+        "Northwood": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Princeton": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 62,
+                "ON_FOOT": 44
+            }
+        },
+        "Inglewood": {
+            "typeCounts": {
+                "ON_BICYCLE": 45,
+                "IN_VEHICLE": 10
+            }
+        },
+        "Atlanta": {
+            "typeCounts": {
+                "IN_VEHICLE": 18,
+                "ON_FOOT": 1
+            }
+        },
+        "College Park": {
+            "typeCounts": {
+                "IN_VEHICLE": 49,
+                "ON_FOOT": 13
+            }
+        },
+        "Sunnyvale": {
+            "typeCounts": {
+                "ON_BICYCLE": 27,
+                "IN_VEHICLE": 74,
+                "ON_FOOT": 1
+            }
+        },
+        "Amberg": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Boone": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Kingsville": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Greenville": {
+            "typeCounts": {
+                "ON_BICYCLE": 3
+            }
+        },
+        "Soda Springs": {
+            "typeCounts": {
+                "IN_VEHICLE": 19
+            }
+        },
+        "Neumarkt an der Ybbs": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Lake Forest": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "IN_VEHICLE": 3
+            }
+        },
+        "Clarkstown": {
+            "typeCounts": {
+                "ON_BICYCLE": 4,
+                "IN_VEHICLE": 7
+            }
+        },
+        "Myersville": {
+            "typeCounts": {
+                "IN_VEHICLE": 7
+            }
+        },
+        "Portland": {
+            "typeCounts": {
+                "IN_VEHICLE": 176,
+                "ON_FOOT": 21
+            }
+        },
+        "North Andover": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Windsor Mill": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Lawrence Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Cottage Grove, Village of": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Heiligenkreuz": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Hayward": {
+            "typeCounts": {
+                "IN_VEHICLE": 33
+            }
+        },
+        "Eastford": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Haidershofen": {
+            "typeCounts": {
+                "ON_BICYCLE": 21,
+                "IN_VEHICLE": 6,
+                "ON_FOOT": 2
+            }
+        },
+        "Atlantic Beach": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 8,
+                "ON_FOOT": 18
+            }
+        },
+        "Shaftsbury": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Sheridan": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Kropia": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "East Freetown": {
+            "typeCounts": {
+                "ON_BICYCLE": 6,
+                "ON_FOOT": 8
+            }
+        },
+        "Colchester": {
+            "typeCounts": {
+                "ON_BICYCLE": 9
+            }
+        },
+        "Nassau": {
+            "typeCounts": {
+                "IN_VEHICLE": 53,
+                "ON_FOOT": 46
+            }
+        },
+        "Ovid": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Englewood Cliffs": {
+            "typeCounts": {
+                "ON_BICYCLE": 24,
+                "IN_VEHICLE": 5
+            }
+        },
+        "Petronell-Carnuntum": {
+            "typeCounts": {
+                "ON_BICYCLE": 11,
+                "IN_VEHICLE": 4
+            }
+        },
+        "Haag": {
+            "typeCounts": {
+                "ON_BICYCLE": 31,
+                "ON_FOOT": 12
+            }
+        },
+        "Kherlen": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Austin": {
+            "typeCounts": {
+                "ON_BICYCLE": 12,
+                "IN_VEHICLE": 19,
+                "ON_FOOT": 11
+            }
+        },
+        "Beacon": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Swedesboro": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Woodland": {
+            "typeCounts": {
+                "IN_VEHICLE": 8
+            }
+        },
+        "Ivry-sur-Seine": {
+            "typeCounts": {
+                "ON_BICYCLE": 3,
+                "IN_VEHICLE": 3
+            }
+        },
+        "Zelking-Matzleinsdorf": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 1
+            }
+        },
+        "Union": {
+            "typeCounts": {
+                "IN_VEHICLE": 10
+            }
+        },
+        "Port Chester": {
+            "typeCounts": {
+                "IN_VEHICLE": 17
+            }
+        },
+        "Sterling": {
+            "typeCounts": {
+                "ON_BICYCLE": 17,
+                "IN_VEHICLE": 9,
+                "ON_FOOT": 1
+            }
+        },
+        "'s-Hertogenbosch": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Petersburgh": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Woodcliff Lake": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Weston": {
+            "typeCounts": {
+                "IN_VEHICLE": 21
+            }
+        },
+        "Southwest Middlesex": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Holcomb": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Malia": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "IN_VEHICLE": 55,
+                "ON_FOOT": 25
+            }
+        },
+        "Santa Monica": {
+            "typeCounts": {
+                "ON_BICYCLE": 25,
+                "IN_VEHICLE": 10,
+                "ON_FOOT": 3
+            }
+        },
+        "Ningbo": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Victor": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Hartford": {
+            "typeCounts": {
+                "IN_VEHICLE": 9
+            }
+        },
+        "Hartland": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Camp Pendleton Marine Corps Base": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Needham Heights": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "IN_VEHICLE": 4
+            }
+        },
+        "Lynn": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Schodack Center": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Rosamond": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "West Unity": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Cumberland": {
+            "typeCounts": {
+                "ON_BICYCLE": 19,
+                "IN_VEHICLE": 20,
+                "ON_FOOT": 2
+            }
+        },
+        "North Ferrisburg": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Cupertino": {
+            "typeCounts": {
+                "IN_VEHICLE": 27,
+                "ON_FOOT": 3
+            }
+        },
+        "Geneseo": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Agawam": {
+            "typeCounts": {
+                "IN_VEHICLE": 31,
+                "ON_FOOT": 75
+            }
+        },
+        "Tatabanya": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "San Leandro": {
+            "typeCounts": {
+                "IN_VEHICLE": 12
+            }
+        },
+        "Elkton": {
+            "typeCounts": {
+                "IN_VEHICLE": 11
+            }
+        },
+        "Castle Rock": {
+            "typeCounts": {
+                "IN_VEHICLE": 34
+            }
+        },
+        "Beltsville": {
+            "typeCounts": {
+                "IN_VEHICLE": 7
+            }
+        },
+        "St Paul": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 23,
+                "ON_FOOT": 8
+            }
+        },
+        "Freetown": {
+            "typeCounts": {
+                "ON_BICYCLE": 32,
+                "IN_VEHICLE": 1,
+                "ON_FOOT": 2
+            }
+        },
+        "Morrisville": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Westbrook": {
+            "typeCounts": {
+                "IN_VEHICLE": 24
+            }
+        },
+        "Baraboo": {
+            "typeCounts": {
+                "IN_VEHICLE": 8
+            }
+        },
+        "Penn Hills Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Kenosha": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Kosice": {
+            "typeCounts": {
+                "IN_VEHICLE": 1,
+                "ON_FOOT": 1
+            }
+        },
+        "Katy": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Summit": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Sherburne": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Addison": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "IN_VEHICLE": 39
+            }
+        },
+        "Norton": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "IN_VEHICLE": 3,
+                "ON_FOOT": 4
+            }
+        },
+        "\u00c1sv\u00e1nyr\u00e1r\u00f3": {
+            "typeCounts": {
+                "ON_BICYCLE": 14
+            }
+        },
+        "Loosdorf": {
+            "typeCounts": {
+                "ON_BICYCLE": 12,
+                "IN_VEHICLE": 1
+            }
+        },
+        "Elmhurst": {
+            "typeCounts": {
+                "IN_VEHICLE": 28
+            }
+        },
+        "Herzogenburg": {
+            "typeCounts": {
+                "ON_BICYCLE": 25,
+                "IN_VEHICLE": 2
+            }
+        },
+        "Kelso": {
+            "typeCounts": {
+                "IN_VEHICLE": 37
+            }
+        },
+        "Toledo": {
+            "typeCounts": {
+                "IN_VEHICLE": 33
+            }
+        },
+        "Wakefield": {
+            "typeCounts": {
+                "ON_BICYCLE": 24,
+                "IN_VEHICLE": 18,
+                "ON_FOOT": 9
+            }
+        },
+        "Big Beaver": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Spillern": {
+            "typeCounts": {
+                "ON_BICYCLE": 2
+            }
+        },
+        "Clinton": {
+            "typeCounts": {
+                "IN_VEHICLE": 27
+            }
+        },
+        "Algonquin": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Prospect Heights": {
+            "typeCounts": {
+                "IN_VEHICLE": 10,
+                "ON_FOOT": 7
+            }
+        },
+        "Monroe Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Auburn": {
+            "typeCounts": {
+                "IN_VEHICLE": 35
+            }
+        },
+        "Jersey City": {
+            "typeCounts": {
+                "IN_VEHICLE": 53,
+                "ON_FOOT": 7
+            }
+        },
+        "Nieuw-Vennep": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Dixon": {
+            "typeCounts": {
+                "IN_VEHICLE": 11
+            }
+        },
+        "Florence": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Brookshire": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Pomfret Center": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "East Killingly": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 2
+            }
+        },
+        "Fairport": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Lindsey": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "SF": {
+            "typeCounts": {
+                "ON_BICYCLE": 82,
+                "IN_VEHICLE": 13,
+                "ON_FOOT": 8
+            }
+        },
+        "Kissz\u0151l\u0151s": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Stuyvesant": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Dekorra": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Berwyn": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Millbrae": {
+            "typeCounts": {
+                "ON_BICYCLE": 10,
+                "IN_VEHICLE": 68,
+                "ON_FOOT": 14
+            }
+        },
+        "Leiden": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Newport": {
+            "typeCounts": {
+                "IN_VEHICLE": 28,
+                "ON_FOOT": 85
+            }
+        },
+        "Welch": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 20,
+                "ON_FOOT": 6
+            }
+        },
+        "Walnut Grove": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Birch Run": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Bloomer Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Colonia": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Acton": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Union City": {
+            "typeCounts": {
+                "IN_VEHICLE": 10
+            }
+        },
+        "Arlington": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 17
+            }
+        },
+        "Brecksville": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Birmingham": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Brunswick": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Fiumicino": {
+            "typeCounts": {
+                "IN_VEHICLE": 21,
+                "ON_FOOT": 20
+            }
+        },
+        "Stamford": {
+            "typeCounts": {
+                "IN_VEHICLE": 47
+            }
+        },
+        "Harrison": {
+            "typeCounts": {
+                "IN_VEHICLE": 15
+            }
+        },
+        "Groton": {
+            "typeCounts": {
+                "IN_VEHICLE": 54
+            }
+        },
+        "Dawn-Euphemia": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Zion": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Villiers-sur-Seine": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Marysville": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Shoreline": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Milton": {
+            "typeCounts": {
+                "ON_BICYCLE": 17,
+                "IN_VEHICLE": 8,
+                "ON_FOOT": 4
+            }
+        },
+        "Medina": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Douglas": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Southport": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Big Pool": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Stratton": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Somerville": {
+            "typeCounts": {
+                "ON_BICYCLE": 18,
+                "IN_VEHICLE": 34,
+                "ON_FOOT": 39
+            }
+        },
+        "Fitchburg": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Verkhoyanskiy Ulus": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Westport": {
+            "typeCounts": {
+                "IN_VEHICLE": 42
+            }
+        },
+        "Briarcliff Manor": {
+            "typeCounts": {
+                "ON_BICYCLE": 10,
+                "IN_VEHICLE": 1,
+                "ON_FOOT": 9
+            }
+        },
+        "Elmwood Park": {
+            "typeCounts": {
+                "IN_VEHICLE": 14
+            }
+        },
+        "Del Aire": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "San Jose": {
+            "typeCounts": {
+                "ON_BICYCLE": 14,
+                "IN_VEHICLE": 101,
+                "ON_FOOT": 36
+            }
+        },
+        "Mt Vernon": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Osseo": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Hawthorne": {
+            "typeCounts": {
+                "ON_BICYCLE": 52,
+                "IN_VEHICLE": 77,
+                "ON_FOOT": 214
+            }
+        },
+        "Pittsford": {
+            "typeCounts": {
+                "IN_VEHICLE": 15
+            }
+        },
+        "Mount Holly": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "New Trier": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Stonington": {
+            "typeCounts": {
+                "IN_VEHICLE": 68,
+                "ON_FOOT": 2
+            }
+        },
+        "Cornish": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Crockett": {
+            "typeCounts": {
+                "IN_VEHICLE": 24
+            }
+        },
+        "Gorham": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Burlingame": {
+            "typeCounts": {
+                "ON_BICYCLE": 54,
+                "IN_VEHICLE": 127,
+                "ON_FOOT": 1
+            }
+        },
+        "Monroeville": {
+            "typeCounts": {
+                "IN_VEHICLE": 9
+            }
+        },
+        "Glidden": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Kingsbury": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Colrain": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Lu\u010divn\u00e1": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Europoort": {
+            "typeCounts": {
+                "ON_FOOT": 1
+            }
+        },
+        "Bernardston": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Arlington Heights": {
+            "typeCounts": {
+                "ON_BICYCLE": 15,
+                "IN_VEHICLE": 25
+            }
+        },
+        "Loomis": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Pawcatuck": {
+            "typeCounts": {
+                "IN_VEHICLE": 29
+            }
+        },
+        "Natick": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Carpinteria": {
+            "typeCounts": {
+                "ON_BICYCLE": 23,
+                "IN_VEHICLE": 12
+            }
+        },
+        "Renton": {
+            "typeCounts": {
+                "IN_VEHICLE": 10
+            }
+        },
+        "Quincy": {
+            "typeCounts": {
+                "IN_VEHICLE": 9,
+                "ON_FOOT": 3
+            }
+        },
+        "Manchester": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Tomkins Cove": {
+            "typeCounts": {
+                "ON_BICYCLE": 12,
+                "ON_FOOT": 5
+            }
+        },
+        "Hafnerbach": {
+            "typeCounts": {
+                "ON_BICYCLE": 27,
+                "IN_VEHICLE": 5,
+                "ON_FOOT": 2
+            }
+        },
+        "Gwynn Oak": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "East Wareham": {
+            "typeCounts": {
+                "ON_BICYCLE": 1
+            }
+        },
+        "Minneapolis": {
+            "typeCounts": {
+                "IN_VEHICLE": 25,
+                "ON_FOOT": 11
+            }
+        },
+        "Wauseon": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Sleepy Hollow": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Savannah": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Castro Valley": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "N\u00e1na": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Lacey": {
+            "typeCounts": {
+                "IN_VEHICLE": 11
+            }
+        },
+        "New Rochelle": {
+            "typeCounts": {
+                "IN_VEHICLE": 18
+            }
+        },
+        "West Brookfield": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Kematen am Innbach": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Kirkville": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Kenilworth": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Schiedam": {
+            "typeCounts": {
+                "ON_BICYCLE": 10,
+                "IN_VEHICLE": 3
+            }
+        },
+        "Marathon": {
+            "typeCounts": {
+                "IN_VEHICLE": 28,
+                "ON_FOOT": 1
+            }
+        },
+        "West Warren": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Wakeman": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Mansfield": {
+            "typeCounts": {
+                "ON_BICYCLE": 16,
+                "IN_VEHICLE": 91,
+                "ON_FOOT": 10
+            }
+        },
+        "Waukesha": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "\u0160t\u00farovo": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Deer Park": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "IN_VEHICLE": 10,
+                "ON_FOOT": 7
+            }
+        },
+        "Vogelwijk": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 1
+            }
+        },
+        "Meriden": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "G\u00f6ny\u0171": {
+            "typeCounts": {
+                "ON_BICYCLE": 3,
+                "IN_VEHICLE": 3
+            }
+        },
+        "Brights Grove": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Tremblay-l\u00e8s-Gonesse": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Sturbridge": {
+            "typeCounts": {
+                "IN_VEHICLE": 12
+            }
+        },
+        "Dem\u00e4novsk\u00e1 Dolina": {
+            "typeCounts": {
+                "ON_BICYCLE": 81,
+                "IN_VEHICLE": 126,
+                "ON_FOOT": 46
+            }
+        },
+        "Eagle": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Norden": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 48,
+                "ON_FOOT": 89
+            }
+        },
+        "North Haven": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Richfield": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Yarrow Point": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Markopoulo Mesogaias": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Blackwell": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "West Deptford Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "New Springfield": {
+            "typeCounts": {
+                "IN_VEHICLE": 8
+            }
+        },
+        "Ferndale": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Szigetmonostor": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 2
+            }
+        },
+        "Winthrop": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "IN_VEHICLE": 7
+            }
+        },
+        "Rocklin": {
+            "typeCounts": {
+                "IN_VEHICLE": 15
+            }
+        },
+        "Mountain View": {
+            "typeCounts": {
+                "ON_BICYCLE": 32,
+                "IN_VEHICLE": 112,
+                "ON_FOOT": 73
+            }
+        },
+        "Penryn": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Port Reading": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Greenport": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Lloyd": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Key Largo": {
+            "typeCounts": {
+                "IN_VEHICLE": 11
+            }
+        },
+        "Valley Stream": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Wyoming": {
+            "typeCounts": {
+                "IN_VEHICLE": 7
+            }
+        },
+        "Cobleskill": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Stockport": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "River Forest": {
+            "typeCounts": {
+                "ON_FOOT": 1
+            }
+        },
+        "Rajka": {
+            "typeCounts": {
+                "ON_BICYCLE": 8,
+                "IN_VEHICLE": 5
+            }
+        },
+        "Chili": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Gresham": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Sheffield Lake": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Dundas": {
+            "typeCounts": {
+                "IN_VEHICLE": 6,
+                "ON_FOOT": 2
+            }
+        },
+        "Fremont": {
+            "typeCounts": {
+                "ON_BICYCLE": 35,
+                "IN_VEHICLE": 46,
+                "ON_FOOT": 3
+            }
+        },
+        "Sturtevant, Village of": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Elkridge": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Passau": {
+            "typeCounts": {
+                "ON_BICYCLE": 33,
+                "IN_VEHICLE": 42,
+                "ON_FOOT": 39
+            }
+        },
+        "Lawrence": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 16,
+                "ON_FOOT": 5
+            }
+        },
+        "Falmouth": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "IN_VEHICLE": 5
+            }
+        },
+        "Albee Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Brush Creek Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Kellogg": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Fort Edward": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Malden": {
+            "typeCounts": {
+                "IN_VEHICLE": 10
+            }
+        },
+        "Waterford": {
+            "typeCounts": {
+                "IN_VEHICLE": 29
+            }
+        },
+        "Lincolnshire": {
+            "typeCounts": {
+                "ON_BICYCLE": 28,
+                "IN_VEHICLE": 97,
+                "ON_FOOT": 27
+            }
+        },
+        "Northbrook": {
+            "typeCounts": {
+                "ON_BICYCLE": 11,
+                "IN_VEHICLE": 60,
+                "ON_FOOT": 32
+            }
+        },
+        "Archbold": {
+            "typeCounts": {
+                "IN_VEHICLE": 7
+            }
+        },
+        "Rohnert Park": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Schwechat": {
+            "typeCounts": {
+                "ON_BICYCLE": 23,
+                "IN_VEHICLE": 16
+            }
+        },
+        "Gy\u0151rz\u00e1moly": {
+            "typeCounts": {
+                "ON_BICYCLE": 7,
+                "IN_VEHICLE": 1
+            }
+        },
+        "New Market": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Chestnut Ridge": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Goldw\u00f6rth": {
+            "typeCounts": {
+                "ON_BICYCLE": 1
+            }
+        },
+        "Windham": {
+            "typeCounts": {
+                "ON_BICYCLE": 18,
+                "IN_VEHICLE": 24
+            }
+        },
+        "Swansea": {
+            "typeCounts": {
+                "ON_BICYCLE": 16,
+                "IN_VEHICLE": 4,
+                "ON_FOOT": 1
+            }
+        },
+        "Ventura": {
+            "typeCounts": {
+                "ON_BICYCLE": 49,
+                "IN_VEHICLE": 22
+            }
+        },
+        "Long Grove": {
+            "typeCounts": {
+                "ON_BICYCLE": 4,
+                "IN_VEHICLE": 16,
+                "ON_FOOT": 8
+            }
+        },
+        "West Harrison": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Clear Spring": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Ober-Grafendorf": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Clayville": {
+            "typeCounts": {
+                "ON_BICYCLE": 8
+            }
+        },
+        "Clark": {
+            "typeCounts": {
+                "IN_VEHICLE": 10
+            }
+        },
+        "Mt Pleasant, Village of": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Garrison": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Frankfurt": {
+            "typeCounts": {
+                "IN_VEHICLE": 11,
+                "ON_FOOT": 3
+            }
+        },
+        "Clyde": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Jochenstein": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 4,
+                "ON_FOOT": 1
+            }
+        },
+        "Charlton": {
+            "typeCounts": {
+                "IN_VEHICLE": 17
+            }
+        },
+        "Acht": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Cooperstown": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Neszm\u00e9ly": {
+            "typeCounts": {
+                "ON_BICYCLE": 2
+            }
+        },
+        "Lanham": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Menlo Park": {
+            "typeCounts": {
+                "ON_BICYCLE": 414,
+                "IN_VEHICLE": 957,
+                "ON_FOOT": 1472
+            }
+        },
+        "Rosedale": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Seekonk": {
+            "typeCounts": {
+                "ON_BICYCLE": 220,
+                "IN_VEHICLE": 18,
+                "ON_FOOT": 75
+            }
+        },
+        "El Segundo": {
+            "typeCounts": {
+                "ON_BICYCLE": 52,
+                "IN_VEHICLE": 6,
+                "ON_FOOT": 3
+            }
+        },
+        "Carneys Point Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 7
+            }
+        },
+        "Vlaardingen": {
+            "typeCounts": {
+                "ON_BICYCLE": 26,
+                "IN_VEHICLE": 11
+            }
+        },
+        "Genoa": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Maassluis": {
+            "typeCounts": {
+                "ON_BICYCLE": 16,
+                "IN_VEHICLE": 2
+            }
+        },
+        "North Adams": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Santa Clara": {
+            "typeCounts": {
+                "ON_BICYCLE": 3,
+                "IN_VEHICLE": 16,
+                "ON_FOOT": 3
+            }
+        },
+        "Port Deposit": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Wantagh": {
+            "typeCounts": {
+                "IN_VEHICLE": 7,
+                "ON_FOOT": 5
+            }
+        },
+        "Madison": {
+            "typeCounts": {
+                "IN_VEHICLE": 37
+            }
+        },
+        "Solon": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Madrid": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Mauregard": {
+            "typeCounts": {
+                "IN_VEHICLE": 17,
+                "ON_FOOT": 3
+            }
+        },
+        "Kersey": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Bear Mountain": {
+            "typeCounts": {
+                "ON_BICYCLE": 3,
+                "ON_FOOT": 3
+            }
+        },
+        "Hastings-On-Hudson": {
+            "typeCounts": {
+                "ON_BICYCLE": 5,
+                "IN_VEHICLE": 2
+            }
+        },
+        "Harrisville": {
+            "typeCounts": {
+                "ON_BICYCLE": 1
+            }
+        },
+        "Attica": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "BWI Airport": {
+            "typeCounts": {
+                "IN_VEHICLE": 12,
+                "ON_FOOT": 7
+            }
+        },
+        "T\u00f6r\u00f6kb\u00e1lint": {
+            "typeCounts": {
+                "ON_BICYCLE": 6,
+                "IN_VEHICLE": 6,
+                "ON_FOOT": 7
+            }
+        },
+        "\u00c1brah\u00e1mhegy": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Charlotte": {
+            "typeCounts": {
+                "IN_VEHICLE": 36
+            }
+        },
+        "Moline": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Waldkirchen am Wesen": {
+            "typeCounts": {
+                "ON_BICYCLE": 4
+            }
+        },
+        "Miami Beach": {
+            "typeCounts": {
+                "IN_VEHICLE": 4,
+                "ON_FOOT": 10
+            }
+        },
+        "North Dartmouth": {
+            "typeCounts": {
+                "ON_BICYCLE": 13
+            }
+        },
+        "Kronstorf": {
+            "typeCounts": {
+                "ON_BICYCLE": 34,
+                "IN_VEHICLE": 4,
+                "ON_FOOT": 2
+            }
+        },
+        "Kom\u00e1rom": {
+            "typeCounts": {
+                "ON_BICYCLE": 15,
+                "IN_VEHICLE": 28,
+                "ON_FOOT": 1
+            }
+        },
+        "New London": {
+            "typeCounts": {
+                "IN_VEHICLE": 39
+            }
+        },
+        "Itasca": {
+            "typeCounts": {
+                "IN_VEHICLE": 10
+            }
+        },
+        "Denison": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Hudson": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Boissy-St.-L\u00e9ger": {
+            "typeCounts": {
+                "ON_BICYCLE": 8,
+                "IN_VEHICLE": 1
+            }
+        },
+        "Highland Falls": {
+            "typeCounts": {
+                "ON_BICYCLE": 3,
+                "IN_VEHICLE": 8,
+                "ON_FOOT": 1
+            }
+        },
+        "Vernon": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 5
+            }
+        },
+        "North Stonington": {
+            "typeCounts": {
+                "IN_VEHICLE": 36
+            }
+        },
+        "Oceanside": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "North Kingstown": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "IN_VEHICLE": 47,
+                "ON_FOOT": 1
+            }
+        },
+        "French Camp": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "V\u00e9rtessz\u0151l\u0151s": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Rocky Hill": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Culver City": {
+            "typeCounts": {
+                "ON_BICYCLE": 17,
+                "IN_VEHICLE": 9
+            }
+        },
+        "Linden": {
+            "typeCounts": {
+                "IN_VEHICLE": 7
+            }
+        },
+        "East Haven": {
+            "typeCounts": {
+                "IN_VEHICLE": 19
+            }
+        },
+        "West Haverstraw": {
+            "typeCounts": {
+                "ON_BICYCLE": 3
+            }
+        },
+        "Long Beach": {
+            "typeCounts": {
+                "ON_BICYCLE": 26,
+                "IN_VEHICLE": 18,
+                "ON_FOOT": 4
+            }
+        },
+        "Tata": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Barendrecht": {
+            "typeCounts": {
+                "ON_FOOT": 1
+            }
+        },
+        "Wheatland": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Otsego": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Byron": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Flint": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Dupont": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Rye": {
+            "typeCounts": {
+                "IN_VEHICLE": 16
+            }
+        },
+        "Angola": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Huntingdon Valley": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Alta": {
+            "typeCounts": {
+                "IN_VEHICLE": 23
+            }
+        },
+        "Athol": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Linwood": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Altlengbach": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Hyattsville": {
+            "typeCounts": {
+                "IN_VEHICLE": 35,
+                "ON_FOOT": 4
+            }
+        },
+        "Tinicum Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 11
+            }
+        },
+        "De Witt": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Plitvi\u010dka jezera": {
+            "typeCounts": {
+                "IN_VEHICLE": 20,
+                "ON_FOOT": 50
+            }
+        },
+        "Spi\u0161sk\u00e9 Podhradie": {
+            "typeCounts": {
+                "IN_VEHICLE": 9,
+                "ON_FOOT": 11
+            }
+        },
+        "Cornwall": {
+            "typeCounts": {
+                "IN_VEHICLE": 10
+            }
+        },
+        "Gaines Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Foster City": {
+            "typeCounts": {
+                "ON_BICYCLE": 9,
+                "IN_VEHICLE": 3
+            }
+        },
+        "Breezewood": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "East Providence": {
+            "typeCounts": {
+                "ON_BICYCLE": 379,
+                "IN_VEHICLE": 95,
+                "ON_FOOT": 23
+            }
+        },
+        "Stockbridge": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Marina Del Rey": {
+            "typeCounts": {
+                "ON_BICYCLE": 24,
+                "IN_VEHICLE": 2
+            }
+        },
+        "Oxnard": {
+            "typeCounts": {
+                "ON_BICYCLE": 26,
+                "IN_VEHICLE": 3
+            }
+        },
+        "Lisle": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Lake Milton": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Jamestown": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Ordacsehi": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Roebling": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "North Attleboro": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "\u017dehra": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 6,
+                "ON_FOOT": 10
+            }
+        },
+        "Huntley": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Batavia": {
+            "typeCounts": {
+                "ON_BICYCLE": 3
+            }
+        },
+        "Old Lyme": {
+            "typeCounts": {
+                "IN_VEHICLE": 27
+            }
+        },
+        "Brimfield": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Colfax": {
+            "typeCounts": {
+                "IN_VEHICLE": 23
+            }
+        },
+        "Bothell": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Sacramento": {
+            "typeCounts": {
+                "IN_VEHICLE": 36
+            }
+        },
+        "Canfield": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Haibach ob der Donau": {
+            "typeCounts": {
+                "ON_BICYCLE": 4
+            }
+        },
+        "Grand View-on-Hudson": {
+            "typeCounts": {
+                "ON_BICYCLE": 8,
+                "IN_VEHICLE": 6
+            }
+        },
+        "Esch": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Daly City": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 58,
+                "ON_FOOT": 1
+            }
+        },
+        "Long Key": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Franklin": {
+            "typeCounts": {
+                "IN_VEHICLE": 27,
+                "ON_FOOT": 2
+            }
+        },
+        "Fife": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Washington Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Nemesgul\u00e1cs": {
+            "typeCounts": {
+                "IN_VEHICLE": 1,
+                "ON_FOOT": 2
+            }
+        },
+        "Wilbraham": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Aschach an der Donau": {
+            "typeCounts": {
+                "ON_BICYCLE": 10
+            }
+        },
+        "Dobbs Ferry": {
+            "typeCounts": {
+                "ON_BICYCLE": 4,
+                "IN_VEHICLE": 1
+            }
+        },
+        "Thompson": {
+            "typeCounts": {
+                "ON_BICYCLE": 6,
+                "IN_VEHICLE": 2,
+                "ON_FOOT": 1
+            }
+        },
+        "Scheveningen": {
+            "typeCounts": {
+                "ON_BICYCLE": 4,
+                "ON_FOOT": 1
+            }
+        },
+        "Bell": {
+            "typeCounts": {
+                "ON_BICYCLE": 6
+            }
+        },
+        "Balatonakali": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Wels": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Orland": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Mosonszentmikl\u00f3s": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Fiskdale": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Stanford": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 5,
+                "ON_FOOT": 28
+            }
+        },
+        "Perryville": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Buzzards Bay": {
+            "typeCounts": {
+                "ON_BICYCLE": 6
+            }
+        },
+        "Limeil-Br\u00e9vannes": {
+            "typeCounts": {
+                "ON_BICYCLE": 5,
+                "IN_VEHICLE": 3,
+                "ON_FOOT": 2
+            }
+        },
+        "Union Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Vecs\u00e9s": {
+            "typeCounts": {
+                "IN_VEHICLE": 25
+            }
+        },
+        "Olympia": {
+            "typeCounts": {
+                "IN_VEHICLE": 35
+            }
+        },
+        "Ludlow": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Smyrna": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Springfield": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Luchthaven Schiphol": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Hillside": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Portage": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Beaverton": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "San Carlos": {
+            "typeCounts": {
+                "ON_BICYCLE": 169,
+                "IN_VEHICLE": 130,
+                "ON_FOOT": 10
+            }
+        },
+        "Jordan": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Kr\u00e1\u013eov\u00e1 nad V\u00e1hom": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Redmond": {
+            "typeCounts": {
+                "ON_BICYCLE": 4,
+                "IN_VEHICLE": 158,
+                "ON_FOOT": 207
+            }
+        },
+        "Whitinsville": {
+            "typeCounts": {
+                "ON_BICYCLE": 1
+            }
+        },
+        "Salisbury": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "IN_VEHICLE": 15
+            }
+        },
+        "Apple River": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Middleton": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Pasadena": {
+            "typeCounts": {
+                "IN_VEHICLE": 126,
+                "ON_FOOT": 18
+            }
+        },
+        "Ottawa": {
+            "typeCounts": {
+                "IN_VEHICLE": 16
+            }
+        },
+        "Nyerges\u00fajfalu": {
+            "typeCounts": {
+                "ON_BICYCLE": 29,
+                "IN_VEHICLE": 19,
+                "ON_FOOT": 3
+            }
+        },
+        "Vergennes": {
+            "typeCounts": {
+                "IN_VEHICLE": 17
+            }
+        },
+        "Rahway": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Emmett Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Obernzell": {
+            "typeCounts": {
+                "ON_BICYCLE": 18
+            }
+        },
+        "Budakal\u00e1sz": {
+            "typeCounts": {
+                "ON_BICYCLE": 10,
+                "IN_VEHICLE": 3
+            }
+        },
+        "Truxton": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Watertown": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "IN_VEHICLE": 3
+            }
+        },
+        "Petersburg": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Bernol\u00e1kovo": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Webster": {
+            "typeCounts": {
+                "IN_VEHICLE": 10,
+                "ON_FOOT": 1
+            }
+        },
+        "Palos Verdes Peninsula": {
+            "typeCounts": {
+                "ON_BICYCLE": 13,
+                "ON_FOOT": 1
+            }
+        },
+        "Ardagger": {
+            "typeCounts": {
+                "ON_BICYCLE": 29,
+                "IN_VEHICLE": 3,
+                "ON_FOOT": 1
+            }
+        },
+        "Manhattan Beach": {
+            "typeCounts": {
+                "ON_BICYCLE": 103,
+                "IN_VEHICLE": 12,
+                "ON_FOOT": 1
+            }
+        },
+        "Edison": {
+            "typeCounts": {
+                "IN_VEHICLE": 61,
+                "ON_FOOT": 4
+            }
+        },
+        "Nunavut": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Mettawa": {
+            "typeCounts": {
+                "IN_VEHICLE": 1,
+                "ON_FOOT": 1
+            }
+        },
+        "Happy Valley": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Galveston": {
+            "typeCounts": {
+                "IN_VEHICLE": 9,
+                "ON_FOOT": 1
+            }
+        },
+        "Casco Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Miesville": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Port Byron": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Medford": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 11,
+                "ON_FOOT": 15
+            }
+        },
+        "Magna": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Oak Creek": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Westlake Village": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Paradise": {
+            "typeCounts": {
+                "IN_VEHICLE": 33,
+                "ON_FOOT": 39
+            }
+        },
+        "East Palo Alto": {
+            "typeCounts": {
+                "ON_BICYCLE": 4,
+                "IN_VEHICLE": 1,
+                "ON_FOOT": 1
+            }
+        },
+        "Budakeszi": {
+            "typeCounts": {
+                "ON_BICYCLE": 8,
+                "IN_VEHICLE": 4
+            }
+        },
+        "Canadice": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Gold Run": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Ely": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Akron": {
+            "typeCounts": {
+                "IN_VEHICLE": 25
+            }
+        },
+        "Tallmadge": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Redwood City": {
+            "typeCounts": {
+                "ON_BICYCLE": 1046,
+                "IN_VEHICLE": 825,
+                "ON_FOOT": 187
+            }
+        },
+        "Hillsdale": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Maywood": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "IN_VEHICLE": 1
+            }
+        },
+        "Stanwood": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Pleasanton": {
+            "typeCounts": {
+                "IN_VEHICLE": 8
+            }
+        },
+        "Mount Airy": {
+            "typeCounts": {
+                "IN_VEHICLE": 8
+            }
+        },
+        "Napier Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Cicero": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Shorewood": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Sealy": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Bloomfield": {
+            "typeCounts": {
+                "IN_VEHICLE": 21
+            }
+        },
+        "Kr\u00e1\u013eova Lehota": {
+            "typeCounts": {
+                "IN_VEHICLE": 25,
+                "ON_FOOT": 12
+            }
+        },
+        "Troutdale": {
+            "typeCounts": {
+                "IN_VEHICLE": 8
+            }
+        },
+        "Sharon Springs": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Villeneuve-St.-Georges": {
+            "typeCounts": {
+                "ON_BICYCLE": 16,
+                "IN_VEHICLE": 8,
+                "ON_FOOT": 3
+            }
+        },
+        "Croswell": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Chatham-Kent": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Dunabogd\u00e1ny": {
+            "typeCounts": {
+                "ON_BICYCLE": 8,
+                "IN_VEHICLE": 13
+            }
+        },
+        "Ravenna": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Poprad": {
+            "typeCounts": {
+                "IN_VEHICLE": 13,
+                "ON_FOOT": 9
+            }
+        },
+        "Fairfield": {
+            "typeCounts": {
+                "IN_VEHICLE": 62,
+                "ON_FOOT": 2
+            }
+        },
+        "Coxsackie": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Camarillo": {
+            "typeCounts": {
+                "ON_BICYCLE": 4,
+                "IN_VEHICLE": 14
+            }
+        },
+        "Longmont": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Pribeta": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Elk Grove Village": {
+            "typeCounts": {
+                "IN_VEHICLE": 15
+            }
+        },
+        "Canton": {
+            "typeCounts": {
+                "ON_BICYCLE": 25,
+                "IN_VEHICLE": 81,
+                "ON_FOOT": 14
+            }
+        },
+        "Perrysburg": {
+            "typeCounts": {
+                "IN_VEHICLE": 15
+            }
+        },
+        "East Chicago": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Brant": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Langenrohr": {
+            "typeCounts": {
+                "ON_BICYCLE": 24,
+                "IN_VEHICLE": 6,
+                "ON_FOOT": 2
+            }
+        },
+        "East Hartford": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Oakfield": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Deep River": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Kirchberg am Wagram": {
+            "typeCounts": {
+                "ON_BICYCLE": 8,
+                "IN_VEHICLE": 7,
+                "ON_FOOT": 1
+            }
+        },
+        "Weldona": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Friendswood": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Nitra": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Julesburg": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Ter Heijde": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 1,
+                "ON_FOOT": 1
+            }
+        },
+        "Swanzey": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Tahit\u00f3tfalu": {
+            "typeCounts": {
+                "ON_BICYCLE": 5,
+                "IN_VEHICLE": 12,
+                "ON_FOOT": 1
+            }
+        },
+        "Sun Prairie": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Porter": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Romeoville": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Badacsonyt\u00f6rdemic": {
+            "typeCounts": {
+                "IN_VEHICLE": 4,
+                "ON_FOOT": 15
+            }
+        },
+        "Sullivan": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Summerland": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 1
+            }
+        },
+        "Lincolnwood": {
+            "typeCounts": {
+                "ON_BICYCLE": 5,
+                "IN_VEHICLE": 3
+            }
+        },
+        "Bristol": {
+            "typeCounts": {
+                "ON_BICYCLE": 59,
+                "IN_VEHICLE": 93,
+                "ON_FOOT": 5
+            }
+        },
+        "Waterloo": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "South Bend": {
+            "typeCounts": {
+                "IN_VEHICLE": 33
+            }
+        },
+        "Bad Deutsch-Altenburg": {
+            "typeCounts": {
+                "ON_BICYCLE": 12,
+                "IN_VEHICLE": 7
+            }
+        },
+        "Delhi": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Burlington": {
+            "typeCounts": {
+                "ON_BICYCLE": 3,
+                "IN_VEHICLE": 26,
+                "ON_FOOT": 47
+            }
+        },
+        "Woodside": {
+            "typeCounts": {
+                "ON_BICYCLE": 8,
+                "IN_VEHICLE": 1
+            }
+        },
+        "Gyor": {
+            "typeCounts": {
+                "ON_BICYCLE": 28,
+                "IN_VEHICLE": 25,
+                "ON_FOOT": 4
+            }
+        },
+        "Lincoln": {
+            "typeCounts": {
+                "ON_BICYCLE": 74,
+                "IN_VEHICLE": 127,
+                "ON_FOOT": 71
+            }
+        },
+        "Tapolca": {
+            "typeCounts": {
+                "IN_VEHICLE": 13,
+                "ON_FOOT": 28
+            }
+        },
+        "Enns": {
+            "typeCounts": {
+                "ON_BICYCLE": 42,
+                "IN_VEHICLE": 2
+            }
+        },
+        "Rome": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Stoughton": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Bruck an der Leitha": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Bronx": {
+            "typeCounts": {
+                "ON_BICYCLE": 7,
+                "IN_VEHICLE": 62,
+                "ON_FOOT": 1
+            }
+        },
+        "Schodack Landing": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Berkeley": {
+            "typeCounts": {
+                "ON_BICYCLE": 8,
+                "IN_VEHICLE": 139,
+                "ON_FOOT": 78
+            }
+        },
+        "Chersonisos": {
+            "typeCounts": {
+                "ON_BICYCLE": 25,
+                "IN_VEHICLE": 146,
+                "ON_FOOT": 77
+            }
+        },
+        "Coventry": {
+            "typeCounts": {
+                "ON_BICYCLE": 54,
+                "IN_VEHICLE": 82,
+                "ON_FOOT": 1
+            }
+        },
+        "Hamilton Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 10
+            }
+        },
+        "\u0160v\u00e1bovce": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Kinnelon": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Foster": {
+            "typeCounts": {
+                "ON_BICYCLE": 108,
+                "IN_VEHICLE": 8,
+                "ON_FOOT": 18
+            }
+        },
+        "South San Francisco": {
+            "typeCounts": {
+                "ON_BICYCLE": 18,
+                "IN_VEHICLE": 109
+            }
+        },
+        "Chester": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Dunaszentp\u00e1l": {
+            "typeCounts": {
+                "ON_BICYCLE": 4
+            }
+        },
+        "Bayonne": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Barrington": {
+            "typeCounts": {
+                "ON_BICYCLE": 116,
+                "IN_VEHICLE": 80,
+                "ON_FOOT": 16
+            }
+        },
+        "Pucking": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Rochelle Park": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Woonsocket": {
+            "typeCounts": {
+                "ON_BICYCLE": 33,
+                "IN_VEHICLE": 37,
+                "ON_FOOT": 3
+            }
+        },
+        "New Lisbon": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Galena": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Sucy-en-Brie": {
+            "typeCounts": {
+                "ON_BICYCLE": 9,
+                "IN_VEHICLE": 13,
+                "ON_FOOT": 6
+            }
+        },
+        "Nieuwerkerk aan den IJssel": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Indian Wells": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Mill Valley": {
+            "typeCounts": {
+                "ON_BICYCLE": 28,
+                "ON_FOOT": 1
+            }
+        },
+        "Mount Prospect": {
+            "typeCounts": {
+                "ON_BICYCLE": 3,
+                "IN_VEHICLE": 18,
+                "ON_FOOT": 7
+            }
+        },
+        "Naples": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Springwater": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Joinville-le-Pont": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "ON_FOOT": 2
+            }
+        },
+        "Lynwood": {
+            "typeCounts": {
+                "ON_BICYCLE": 1
+            }
+        },
+        "Elba Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Bolingbrook": {
+            "typeCounts": {
+                "IN_VEHICLE": 11
+            }
+        },
+        "Balatonudvari": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "North Middlesex": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "New Castle": {
+            "typeCounts": {
+                "IN_VEHICLE": 13
+            }
+        },
+        "San Francisco": {
+            "typeCounts": {
+                "ON_BICYCLE": 402,
+                "IN_VEHICLE": 1689,
+                "ON_FOOT": 1206
+            }
+        },
+        "White Marsh Station": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Middleboro": {
+            "typeCounts": {
+                "ON_BICYCLE": 2
+            }
+        },
+        "East Brunswick Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 16
+            }
+        },
+        "St.-Maurice": {
+            "typeCounts": {
+                "ON_BICYCLE": 5,
+                "IN_VEHICLE": 1,
+                "ON_FOOT": 1
+            }
+        },
+        "Medfield": {
+            "typeCounts": {
+                "IN_VEHICLE": 8
+            }
+        },
+        "Niantic": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Klosterneuburg": {
+            "typeCounts": {
+                "ON_BICYCLE": 36,
+                "IN_VEHICLE": 1,
+                "ON_FOOT": 1
+            }
+        },
+        "Hanover": {
+            "typeCounts": {
+                "IN_VEHICLE": 18
+            }
+        },
+        "Boxtel": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Dresher": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Norwalk": {
+            "typeCounts": {
+                "IN_VEHICLE": 47
+            }
+        },
+        "Berlin": {
+            "typeCounts": {
+                "IN_VEHICLE": 9
+            }
+        },
+        "Trafford": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Bordentown": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Milwaukee": {
+            "typeCounts": {
+                "IN_VEHICLE": 26
+            }
+        },
+        "St Johnsville": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Paiania": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Braintree": {
+            "typeCounts": {
+                "IN_VEHICLE": 9,
+                "ON_FOOT": 8
+            }
+        },
+        "Pahrump": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Oak Park": {
+            "typeCounts": {
+                "IN_VEHICLE": 2,
+                "ON_FOOT": 14
+            }
+        },
+        "Eindhoven": {
+            "typeCounts": {
+                "IN_VEHICLE": 83,
+                "ON_FOOT": 34
+            }
+        },
+        "Chesterfield": {
+            "typeCounts": {
+                "IN_VEHICLE": 8
+            }
+        },
+        "Asz\u00f3f\u0151": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Dunaszeg": {
+            "typeCounts": {
+                "ON_BICYCLE": 10,
+                "IN_VEHICLE": 4,
+                "ON_FOOT": 1
+            }
+        },
+        "Momskiy Ulus": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Peekskill": {
+            "typeCounts": {
+                "ON_BICYCLE": 9,
+                "IN_VEHICLE": 2,
+                "ON_FOOT": 1
+            }
+        },
+        "Los Altos Hills": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 9
+            }
+        },
+        "Wareham": {
+            "typeCounts": {
+                "ON_BICYCLE": 4,
+                "IN_VEHICLE": 3
+            }
+        },
+        "Atherton": {
+            "typeCounts": {
+                "ON_BICYCLE": 18,
+                "IN_VEHICLE": 5,
+                "ON_FOOT": 1
+            }
+        },
+        "Montpelier": {
+            "typeCounts": {
+                "IN_VEHICLE": 9
+            }
+        },
+        "Everett": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 8,
+                "ON_FOOT": 2
+            }
+        },
+        "Elk Grove": {
+            "typeCounts": {
+                "IN_VEHICLE": 9
+            }
+        },
+        "Moreau": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Norwood": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Belmont": {
+            "typeCounts": {
+                "ON_BICYCLE": 85,
+                "IN_VEHICLE": 97,
+                "ON_FOOT": 24
+            }
+        },
+        "Stockerau": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "IN_VEHICLE": 1
+            }
+        },
+        "Stahlstown": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Mamaroneck": {
+            "typeCounts": {
+                "IN_VEHICLE": 9
+            }
+        },
+        "G\u00e1novce": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Emeryville": {
+            "typeCounts": {
+                "IN_VEHICLE": 9
+            }
+        },
+        "Northfield": {
+            "typeCounts": {
+                "ON_BICYCLE": 15,
+                "IN_VEHICLE": 392,
+                "ON_FOOT": 126
+            }
+        },
+        "Wethersfield": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Irvington": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 13,
+                "ON_FOOT": 2
+            }
+        },
+        "South Amana": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Somerset": {
+            "typeCounts": {
+                "ON_BICYCLE": 16,
+                "IN_VEHICLE": 16
+            }
+        },
+        "Springfield Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 9
+            }
+        },
+        "San Bruno": {
+            "typeCounts": {
+                "ON_BICYCLE": 15,
+                "IN_VEHICLE": 59
+            }
+        },
+        "Needham": {
+            "typeCounts": {
+                "IN_VEHICLE": 9
+            }
+        },
+        "Rockaway Park": {
+            "typeCounts": {
+                "ON_BICYCLE": 11,
+                "IN_VEHICLE": 1,
+                "ON_FOOT": 1
+            }
+        },
+        "Murrysville": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Templeton": {
+            "typeCounts": {
+                "ON_BICYCLE": 4,
+                "IN_VEHICLE": 8,
+                "ON_FOOT": 3
+            }
+        },
+        "Fort Lee": {
+            "typeCounts": {
+                "ON_BICYCLE": 10,
+                "IN_VEHICLE": 2
+            }
+        },
+        "Paris": {
+            "typeCounts": {
+                "ON_BICYCLE": 23,
+                "IN_VEHICLE": 272,
+                "ON_FOOT": 241
+            }
+        },
+        "Heraklion": {
+            "typeCounts": {
+                "IN_VEHICLE": 35,
+                "ON_FOOT": 33
+            }
+        },
+        "Mertingen": {
+            "typeCounts": {
+                "ON_FOOT": 1
+            }
+        },
+        "Hull": {
+            "typeCounts": {
+                "IN_VEHICLE": 1,
+                "ON_FOOT": 5
+            }
+        },
+        "Columbus": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Bensalem Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Wayland": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Kent": {
+            "typeCounts": {
+                "IN_VEHICLE": 12
+            }
+        },
+        "Sutton": {
+            "typeCounts": {
+                "ON_BICYCLE": 7
+            }
+        },
+        "Neidling": {
+            "typeCounts": {
+                "ON_BICYCLE": 13
+            }
+        },
+        "Baldwin": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Revere": {
+            "typeCounts": {
+                "ON_BICYCLE": 12,
+                "IN_VEHICLE": 12,
+                "ON_FOOT": 1
+            }
+        },
+        "North Bergen": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Beaver Falls": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Uxbridge": {
+            "typeCounts": {
+                "ON_BICYCLE": 29,
+                "IN_VEHICLE": 11
+            }
+        },
+        "Hatboro": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Tipton": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Shirley": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "East Brunswick": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Groveland": {
+            "typeCounts": {
+                "IN_VEHICLE": 13
+            }
+        },
+        "Marriottsville": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Doral": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Chesterton": {
+            "typeCounts": {
+                "IN_VEHICLE": 9
+            }
+        },
+        "Plainsboro": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Gy\u0151rladam\u00e9r": {
+            "typeCounts": {
+                "ON_BICYCLE": 3,
+                "IN_VEHICLE": 1
+            }
+        },
+        "St Polten": {
+            "typeCounts": {
+                "ON_BICYCLE": 48,
+                "IN_VEHICLE": 63,
+                "ON_FOOT": 7
+            }
+        },
+        "Vernon Hills": {
+            "typeCounts": {
+                "ON_BICYCLE": 13,
+                "IN_VEHICLE": 40,
+                "ON_FOOT": 13
+            }
+        },
+        "Aurora": {
+            "typeCounts": {
+                "ON_BICYCLE": 23,
+                "IN_VEHICLE": 6,
+                "ON_FOOT": 5
+            }
+        },
+        "Wales": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Cambridge": {
+            "typeCounts": {
+                "ON_BICYCLE": 575,
+                "IN_VEHICLE": 1888,
+                "ON_FOOT": 2167
+            }
+        },
+        "Bellevue": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "IN_VEHICLE": 156,
+                "ON_FOOT": 104
+            }
+        },
+        "Columbia Center": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Oak Brook": {
+            "typeCounts": {
+                "IN_VEHICLE": 14
+            }
+        },
+        "Thousand Oaks": {
+            "typeCounts": {
+                "IN_VEHICLE": 9
+            }
+        },
+        "Auburndale": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Berthoud": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "San Diego": {
+            "typeCounts": {
+                "IN_VEHICLE": 11,
+                "ON_FOOT": 5
+            }
+        },
+        "Collins": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "South Gate": {
+            "typeCounts": {
+                "ON_BICYCLE": 6
+            }
+        },
+        "Nagyt\u00e1lya": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Bensalem": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Traismauer": {
+            "typeCounts": {
+                "ON_BICYCLE": 27,
+                "IN_VEHICLE": 19,
+                "ON_FOOT": 4
+            }
+        },
+        "Worthington": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Westerly": {
+            "typeCounts": {
+                "IN_VEHICLE": 21
+            }
+        },
+        "Applegate": {
+            "typeCounts": {
+                "IN_VEHICLE": 7
+            }
+        },
+        "Branford": {
+            "typeCounts": {
+                "IN_VEHICLE": 47
+            }
+        },
+        "DeWitt": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Snake Spring Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Key West": {
+            "typeCounts": {
+                "ON_BICYCLE": 56,
+                "IN_VEHICLE": 108,
+                "ON_FOOT": 29
+            }
+        },
+        "Tenafly": {
+            "typeCounts": {
+                "ON_BICYCLE": 11
+            }
+        },
+        "Novato": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Melrose": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Roseboom": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Farwell": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Mussey Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Mount Pleasant": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "IN_VEHICLE": 6
+            }
+        },
+        "Malone": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Holyoke": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "East Lyme": {
+            "typeCounts": {
+                "IN_VEHICLE": 33
+            }
+        },
+        "Glenn Dale": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "New Beaver": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Dedham": {
+            "typeCounts": {
+                "IN_VEHICLE": 21
+            }
+        },
+        "Clarksburg": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Columbia": {
+            "typeCounts": {
+                "ON_BICYCLE": 4
+            }
+        },
+        "Andornakt\u00e1lya": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Marshall": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Hook of Holland": {
+            "typeCounts": {
+                "ON_BICYCLE": 20,
+                "IN_VEHICLE": 19,
+                "ON_FOOT": 10
+            }
+        },
+        "Fischamend": {
+            "typeCounts": {
+                "ON_BICYCLE": 11,
+                "IN_VEHICLE": 1
+            }
+        },
+        "Orchard Park": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Skokie": {
+            "typeCounts": {
+                "ON_BICYCLE": 10,
+                "IN_VEHICLE": 11,
+                "ON_FOOT": 1
+            }
+        },
+        "Lathrop": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Laurel": {
+            "typeCounts": {
+                "IN_VEHICLE": 9
+            }
+        },
+        "Island Park": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Dunakeszi": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Le\u00e1nyfalu": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "IN_VEHICLE": 4
+            }
+        },
+        "Hightstown": {
+            "typeCounts": {
+                "IN_VEHICLE": 7
+            }
+        },
+        "Cranberry Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Gothenburg": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Campbell Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Oberding": {
+            "typeCounts": {
+                "IN_VEHICLE": 14,
+                "ON_FOOT": 9
+            }
+        },
+        "Strengberg": {
+            "typeCounts": {
+                "ON_BICYCLE": 20,
+                "IN_VEHICLE": 5,
+                "ON_FOOT": 8
+            }
+        },
+        "East Greenwich": {
+            "typeCounts": {
+                "ON_BICYCLE": 11,
+                "IN_VEHICLE": 45,
+                "ON_FOOT": 7
+            }
+        },
+        "Caledonia": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Tavernier": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "North Sewickley Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Ross Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Corbett": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 33,
+                "ON_FOOT": 10
+            }
+        },
+        "Kildeer": {
+            "typeCounts": {
+                "ON_FOOT": 1
+            }
+        },
+        "Ripton": {
+            "typeCounts": {
+                "IN_VEHICLE": 14
+            }
+        },
+        "Diamond": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Pomona": {
+            "typeCounts": {
+                "ON_BICYCLE": 3,
+                "IN_VEHICLE": 7
+            }
+        },
+        "Washington": {
+            "typeCounts": {
+                "ON_BICYCLE": 3,
+                "IN_VEHICLE": 84,
+                "ON_FOOT": 192
+            }
+        },
+        "Schaumburg": {
+            "typeCounts": {
+                "IN_VEHICLE": 43,
+                "ON_FOOT": 3
+            }
+        },
+        "Dunaalm\u00e1s": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Hunts Point": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Balatonlelle": {
+            "typeCounts": {
+                "ON_FOOT": 1
+            }
+        },
+        "Falls Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "West Kingston": {
+            "typeCounts": {
+                "ON_BICYCLE": 8,
+                "IN_VEHICLE": 29,
+                "ON_FOOT": 5
+            }
+        },
+        "Blackstone": {
+            "typeCounts": {
+                "ON_BICYCLE": 5,
+                "IN_VEHICLE": 5
+            }
+        },
+        "Nov\u00fd Svet": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Hempfield Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Niles": {
+            "typeCounts": {
+                "ON_BICYCLE": 9,
+                "IN_VEHICLE": 3,
+                "ON_FOOT": 2
+            }
+        },
+        "West Friendship": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Fort Ann": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Pleasantville": {
+            "typeCounts": {
+                "ON_BICYCLE": 3
+            }
+        },
+        "Bel Air": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Maisons-Alfort": {
+            "typeCounts": {
+                "ON_FOOT": 1
+            }
+        },
+        "Des Plaines": {
+            "typeCounts": {
+                "ON_BICYCLE": 10,
+                "IN_VEHICLE": 76,
+                "ON_FOOT": 14
+            }
+        },
+        "Vlachy": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Feasterville-Trevose": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Danvers": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Tustin": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "East Orange": {
+            "typeCounts": {
+                "IN_VEHICLE": 14
+            }
+        },
+        "Whitehall": {
+            "typeCounts": {
+                "IN_VEHICLE": 11
+            }
+        },
+        "Rehoboth": {
+            "typeCounts": {
+                "ON_BICYCLE": 376,
+                "IN_VEHICLE": 18,
+                "ON_FOOT": 135
+            }
+        },
+        "Hope Valley": {
+            "typeCounts": {
+                "IN_VEHICLE": 11
+            }
+        },
+        "North Providence": {
+            "typeCounts": {
+                "ON_BICYCLE": 10,
+                "IN_VEHICLE": 11
+            }
+        },
+        "Sz\u0151dliget": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Frederick": {
+            "typeCounts": {
+                "IN_VEHICLE": 7
+            }
+        },
+        "Strekov": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Higganum": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Cannon Falls": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Northumberland": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Wood Village": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Cuyahoga Heights": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Pelham Manor": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Moosup": {
+            "typeCounts": {
+                "ON_BICYCLE": 15,
+                "IN_VEHICLE": 4
+            }
+        },
+        "Assonet": {
+            "typeCounts": {
+                "ON_BICYCLE": 13,
+                "ON_FOOT": 8
+            }
+        },
+        "Delta": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Putnam": {
+            "typeCounts": {
+                "ON_BICYCLE": 8,
+                "ON_FOOT": 1
+            }
+        },
+        "Plainfield": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "IN_VEHICLE": 14
+            }
+        },
+        "Linz": {
+            "typeCounts": {
+                "ON_BICYCLE": 55,
+                "IN_VEHICLE": 45,
+                "ON_FOOT": 16
+            }
+        },
+        "St.-Maur-des-Foss\u00e9s": {
+            "typeCounts": {
+                "ON_BICYCLE": 14,
+                "IN_VEHICLE": 2,
+                "ON_FOOT": 6
+            }
+        },
+        "Willowbrook": {
+            "typeCounts": {
+                "IN_VEHICLE": 15
+            }
+        },
+        "North Smithfield": {
+            "typeCounts": {
+                "ON_BICYCLE": 19,
+                "IN_VEHICLE": 1
+            }
+        },
+        "Hinsdale": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "North Beaver Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "New Sewickley Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Secaucus": {
+            "typeCounts": {
+                "IN_VEHICLE": 12
+            }
+        },
+        "Glencoe": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "IN_VEHICLE": 2
+            }
+        },
+        "\u0160a\u013ea": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Lake Zurich": {
+            "typeCounts": {
+                "ON_BICYCLE": 5,
+                "IN_VEHICLE": 29
+            }
+        },
+        "Neola": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Sewickley": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Johnston": {
+            "typeCounts": {
+                "ON_BICYCLE": 108,
+                "IN_VEHICLE": 55,
+                "ON_FOOT": 12
+            }
+        },
+        "Ottensheim": {
+            "typeCounts": {
+                "ON_BICYCLE": 11
+            }
+        },
+        "Warwick": {
+            "typeCounts": {
+                "ON_BICYCLE": 24,
+                "IN_VEHICLE": 135,
+                "ON_FOOT": 8
+            }
+        },
+        "Big Pine Key": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Utica": {
+            "typeCounts": {
+                "IN_VEHICLE": 19
+            }
+        },
+        "Yonkers": {
+            "typeCounts": {
+                "ON_BICYCLE": 20,
+                "IN_VEHICLE": 49,
+                "ON_FOOT": 13
+            }
+        },
+        "Seattle": {
+            "typeCounts": {
+                "ON_BICYCLE": 19,
+                "IN_VEHICLE": 151,
+                "ON_FOOT": 64
+            }
+        },
+        "Grand Rapids": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "White Plains": {
+            "typeCounts": {
+                "ON_BICYCLE": 4,
+                "IN_VEHICLE": 17
+            }
+        },
+        "Hopkinton": {
+            "typeCounts": {
+                "IN_VEHICLE": 19
+            }
+        },
+        "Admaston/Bromley": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Neustadtl an der Donau": {
+            "typeCounts": {
+                "ON_BICYCLE": 30,
+                "IN_VEHICLE": 12
+            }
+        },
+        "Klausen-Leopoldsdorf": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "San Lorenzo": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Greenwich": {
+            "typeCounts": {
+                "IN_VEHICLE": 66,
+                "ON_FOOT": 1
+            }
+        },
+        "Lawndale": {
+            "typeCounts": {
+                "ON_BICYCLE": 14,
+                "IN_VEHICLE": 16
+            }
+        },
+        "Dunkelsteinerwald": {
+            "typeCounts": {
+                "ON_BICYCLE": 8,
+                "IN_VEHICLE": 6
+            }
+        },
+        "Lunenburg": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Catonsville": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Homer": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Morton Grove": {
+            "typeCounts": {
+                "ON_BICYCLE": 13,
+                "IN_VEHICLE": 10,
+                "ON_FOOT": 4
+            }
+        },
+        "Muckendorf-Wipfing": {
+            "typeCounts": {
+                "ON_BICYCLE": 1
+            }
+        },
+        "Bloomington": {
+            "typeCounts": {
+                "IN_VEHICLE": 4,
+                "ON_FOOT": 11
+            }
+        },
+        "Bronxville": {
+            "typeCounts": {
+                "IN_VEHICLE": 1,
+                "ON_FOOT": 1
+            }
+        },
+        "Walpole": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Kamenica nad Hronom": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Weehawken": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Mapleville": {
+            "typeCounts": {
+                "ON_BICYCLE": 2
+            }
+        },
+        "Donegal": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Jerusalem": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Varick": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Ver\u0151ce": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "IN_VEHICLE": 77,
+                "ON_FOOT": 26
+            }
+        },
+        "Chicago": {
+            "typeCounts": {
+                "ON_BICYCLE": 144,
+                "IN_VEHICLE": 712,
+                "ON_FOOT": 234
+            }
+        },
+        "Vallejo": {
+            "typeCounts": {
+                "IN_VEHICLE": 12
+            }
+        },
+        "Plympton-Wyoming": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Bensenville": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Woodbridge": {
+            "typeCounts": {
+                "IN_VEHICLE": 15
+            }
+        },
+        "Nagymaros": {
+            "typeCounts": {
+                "IN_VEHICLE": 8,
+                "ON_FOOT": 1
+            }
+        },
+        "Roissy-en-France": {
+            "typeCounts": {
+                "IN_VEHICLE": 2,
+                "ON_FOOT": 1
+            }
+        },
+        "Anthousa": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Blandy": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Killingly": {
+            "typeCounts": {
+                "ON_BICYCLE": 13,
+                "IN_VEHICLE": 4,
+                "ON_FOOT": 5
+            }
+        },
+        "Untergriesbach": {
+            "typeCounts": {
+                "ON_BICYCLE": 10,
+                "IN_VEHICLE": 1
+            }
+        },
+        "Peck": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Dighton": {
+            "typeCounts": {
+                "ON_BICYCLE": 10
+            }
+        },
+        "Southwold": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Smithfield": {
+            "typeCounts": {
+                "ON_BICYCLE": 138,
+                "IN_VEHICLE": 32,
+                "ON_FOOT": 13
+            }
+        },
+        "Oglesby": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "East Rutherford": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Greene": {
+            "typeCounts": {
+                "ON_BICYCLE": 24,
+                "IN_VEHICLE": 25
+            }
+        },
+        "Morfelden": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "East Hampton": {
+            "typeCounts": {
+                "ON_BICYCLE": 7,
+                "IN_VEHICLE": 6,
+                "ON_FOOT": 3
+            }
+        },
+        "Alleyton": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Westborough": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Katonah": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Half Moon Bay": {
+            "typeCounts": {
+                "IN_VEHICLE": 10
+            }
+        },
+        "Newtonville": {
+            "typeCounts": {
+                "ON_BICYCLE": 3
+            }
+        },
+        "Newcastle": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Middletown": {
+            "typeCounts": {
+                "ON_BICYCLE": 5,
+                "IN_VEHICLE": 33,
+                "ON_FOOT": 8
+            }
+        },
+        "Letenye": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Waltham": {
+            "typeCounts": {
+                "ON_BICYCLE": 5,
+                "IN_VEHICLE": 34
+            }
+        },
+        "Perry": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "R\u00e9vf\u00fcl\u00f6p": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Lodi": {
+            "typeCounts": {
+                "IN_VEHICLE": 8
+            }
+        },
+        "Maywood Park": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Berkley": {
+            "typeCounts": {
+                "ON_BICYCLE": 10
+            }
+        },
+        "Woodbury": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "South Richmond Hill": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Ashland": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Horn\u00e1 Lehota": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "IN_VEHICLE": 17,
+                "ON_FOOT": 7
+            }
+        },
+        "Pittsburgh": {
+            "typeCounts": {
+                "IN_VEHICLE": 29,
+                "ON_FOOT": 3
+            }
+        },
+        "Cobalt": {
+            "typeCounts": {
+                "ON_FOOT": 1
+            }
+        },
+        "Newton": {
+            "typeCounts": {
+                "ON_BICYCLE": 4,
+                "IN_VEHICLE": 31
+            }
+        },
+        "Broadview Heights": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Highlands": {
+            "typeCounts": {
+                "ON_BICYCLE": 30,
+                "IN_VEHICLE": 20,
+                "ON_FOOT": 3
+            }
+        },
+        "Thames Centre": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Heerjansdam": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Millis": {
+            "typeCounts": {
+                "IN_VEHICLE": 16
+            }
+        },
+        "Haverstraw": {
+            "typeCounts": {
+                "ON_BICYCLE": 9,
+                "IN_VEHICLE": 2
+            }
+        },
+        "Makl\u00e1r": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Wheeling": {
+            "typeCounts": {
+                "ON_BICYCLE": 4,
+                "IN_VEHICLE": 57,
+                "ON_FOOT": 25
+            }
+        },
+        "North East": {
+            "typeCounts": {
+                "IN_VEHICLE": 4,
+                "ON_FOOT": 1
+            }
+        },
+        "Brisbane": {
+            "typeCounts": {
+                "ON_BICYCLE": 16,
+                "IN_VEHICLE": 77
+            }
+        },
+        "Los Altos": {
+            "typeCounts": {
+                "IN_VEHICLE": 8,
+                "ON_FOOT": 9
+            }
+        },
+        "Albany": {
+            "typeCounts": {
+                "IN_VEHICLE": 8
+            }
+        },
+        "Penns Grove": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Middlebury": {
+            "typeCounts": {
+                "ON_BICYCLE": 22,
+                "IN_VEHICLE": 361,
+                "ON_FOOT": 404
+            }
+        },
+        "Cleveland": {
+            "typeCounts": {
+                "IN_VEHICLE": 27,
+                "ON_FOOT": 1
+            }
+        },
+        "Zorra": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Tiburon": {
+            "typeCounts": {
+                "ON_BICYCLE": 20
+            }
+        },
+        "Sognolles-en-Montois": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Amsterdam": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "IN_VEHICLE": 84,
+                "ON_FOOT": 120
+            }
+        },
+        "Costa Mesa": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Mystic": {
+            "typeCounts": {
+                "IN_VEHICLE": 28,
+                "ON_FOOT": 10
+            }
+        },
+        "DuPont": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Karlovac": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Chestnut Hill": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Cranford": {
+            "typeCounts": {
+                "IN_VEHICLE": 8
+            }
+        },
+        "Lucas": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Goleta": {
+            "typeCounts": {
+                "ON_BICYCLE": 15,
+                "IN_VEHICLE": 26,
+                "ON_FOOT": 1
+            }
+        },
+        "South-West Oxford": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Bell Gardens": {
+            "typeCounts": {
+                "ON_BICYCLE": 1
+            }
+        },
+        "Litchfield": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Badacsonytomaj": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 19,
+                "ON_FOOT": 38
+            }
+        },
+        "New Brunswick": {
+            "typeCounts": {
+                "IN_VEHICLE": 17
+            }
+        },
+        "Pallini": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 2,
+                "ON_FOOT": 1
+            }
+        },
+        "Ossining": {
+            "typeCounts": {
+                "ON_BICYCLE": 11,
+                "IN_VEHICLE": 4,
+                "ON_FOOT": 2
+            }
+        },
+        "Red Hook": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Ferrisburg": {
+            "typeCounts": {
+                "IN_VEHICLE": 15
+            }
+        },
+        "Rye Brook": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Kearny": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Whitten": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Camp Douglas, Village of": {
+            "typeCounts": {
+                "IN_VEHICLE": 18
+            }
+        },
+        "Colma": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Budapest": {
+            "typeCounts": {
+                "ON_BICYCLE": 681,
+                "IN_VEHICLE": 3917,
+                "ON_FOOT": 2044
+            }
+        },
+        "Truckee": {
+            "typeCounts": {
+                "IN_VEHICLE": 112,
+                "ON_FOOT": 42
+            }
+        },
+        "Parma": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Allegheny Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Mountlake Terrace": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Acme": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Erlau": {
+            "typeCounts": {
+                "ON_BICYCLE": 2
+            }
+        },
+        "Santa Barbara": {
+            "typeCounts": {
+                "ON_BICYCLE": 37,
+                "IN_VEHICLE": 17,
+                "ON_FOOT": 1
+            }
+        },
+        "Orange": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Tracy": {
+            "typeCounts": {
+                "IN_VEHICLE": 14
+            }
+        },
+        "Wallingford": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Hagerstown": {
+            "typeCounts": {
+                "IN_VEHICLE": 9
+            }
+        },
+        "Aberdeen": {
+            "typeCounts": {
+                "IN_VEHICLE": 8
+            }
+        },
+        "Choisy-le-Roi": {
+            "typeCounts": {
+                "ON_BICYCLE": 9,
+                "IN_VEHICLE": 6
+            }
+        },
+        "Portsmouth": {
+            "typeCounts": {
+                "ON_BICYCLE": 4,
+                "IN_VEHICLE": 15
+            }
+        },
+        "Galway": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Aldanskiy Ulus": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Oegstgeest": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Ephratah": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Montvale": {
+            "typeCounts": {
+                "IN_VEHICLE": 9
+            }
+        },
+        "Weybridge": {
+            "typeCounts": {
+                "ON_BICYCLE": 16,
+                "IN_VEHICLE": 4,
+                "ON_FOOT": 9
+            }
+        },
+        "Alfortville": {
+            "typeCounts": {
+                "ON_BICYCLE": 4,
+                "IN_VEHICLE": 5
+            }
+        },
+        "Dietach": {
+            "typeCounts": {
+                "ON_BICYCLE": 7,
+                "IN_VEHICLE": 1
+            }
+        },
+        "South Brunswick Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 9
+            }
+        },
+        "Torrance": {
+            "typeCounts": {
+                "ON_BICYCLE": 12,
+                "IN_VEHICLE": 14
+            }
+        },
+        "P\u00f6chlarn": {
+            "typeCounts": {
+                "ON_BICYCLE": 17,
+                "IN_VEHICLE": 2
+            }
+        },
+        "Norwich": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Glenside": {
+            "typeCounts": {
+                "IN_VEHICLE": 19,
+                "ON_FOOT": 12
+            }
+        },
+        "Elba": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Obid": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Old Saybrook": {
+            "typeCounts": {
+                "IN_VEHICLE": 42,
+                "ON_FOOT": 1
+            }
+        },
+        "Engelhartszell": {
+            "typeCounts": {
+                "ON_BICYCLE": 6,
+                "IN_VEHICLE": 8
+            }
+        },
+        "Cromwell": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Saddle Brook": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Highland Park": {
+            "typeCounts": {
+                "ON_BICYCLE": 37,
+                "IN_VEHICLE": 67,
+                "ON_FOOT": 19
+            }
+        },
+        "West Sacramento": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Sandusky": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Yosemite National Park": {
+            "typeCounts": {
+                "IN_VEHICLE": 8
+            }
+        },
+        "South Kingstown": {
+            "typeCounts": {
+                "ON_BICYCLE": 40,
+                "IN_VEHICLE": 31,
+                "ON_FOOT": 4
+            }
+        },
+        "Oak Harbor": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Port Hueneme": {
+            "typeCounts": {
+                "ON_BICYCLE": 22,
+                "IN_VEHICLE": 6,
+                "ON_FOOT": 1
+            }
+        },
+        "Montecito": {
+            "typeCounts": {
+                "ON_BICYCLE": 3,
+                "IN_VEHICLE": 2
+            }
+        },
+        "Nea Alikarnassos": {
+            "typeCounts": {
+                "IN_VEHICLE": 16
+            }
+        },
+        "Meyrin": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 7,
+                "ON_FOOT": 23
+            }
+        },
+        "Westmoreland": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Linthicum Heights": {
+            "typeCounts": {
+                "IN_VEHICLE": 7
+            }
+        },
+        "Grafton": {
+            "typeCounts": {
+                "IN_VEHICLE": 11
+            }
+        },
+        "Moss Beach": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Elyria": {
+            "typeCounts": {
+                "IN_VEHICLE": 7
+            }
+        },
+        "Upper Southampton Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Palisades": {
+            "typeCounts": {
+                "ON_BICYCLE": 1
+            }
+        },
+        "Mason City": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Paramus": {
+            "typeCounts": {
+                "IN_VEHICLE": 11
+            }
+        },
+        "Voorburg": {
+            "typeCounts": {
+                "ON_BICYCLE": 2
+            }
+        },
+        "Fords": {
+            "typeCounts": {
+                "IN_VEHICLE": 9
+            }
+        },
+        "Upton": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Dracut": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Marshall Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Piermont": {
+            "typeCounts": {
+                "ON_BICYCLE": 7
+            }
+        },
+        "Gouves": {
+            "typeCounts": {
+                "ON_BICYCLE": 16,
+                "IN_VEHICLE": 20,
+                "ON_FOOT": 6
+            }
+        },
+        "Taunton": {
+            "typeCounts": {
+                "ON_BICYCLE": 19,
+                "IN_VEHICLE": 1
+            }
+        },
+        "Gardena": {
+            "typeCounts": {
+                "ON_BICYCLE": 19,
+                "IN_VEHICLE": 15,
+                "ON_FOOT": 1
+            }
+        },
+        "Bourne": {
+            "typeCounts": {
+                "ON_BICYCLE": 4
+            }
+        },
+        "Parshall": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Cudahy": {
+            "typeCounts": {
+                "ON_BICYCLE": 1
+            }
+        },
+        "Isaszeg": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Bridport": {
+            "typeCounts": {
+                "IN_VEHICLE": 16
+            }
+        },
+        "Woodbury Heights": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Malibu": {
+            "typeCounts": {
+                "ON_BICYCLE": 78,
+                "IN_VEHICLE": 5
+            }
+        },
+        "Wolfsthal": {
+            "typeCounts": {
+                "ON_BICYCLE": 8,
+                "IN_VEHICLE": 3,
+                "ON_FOOT": 1
+            }
+        },
+        "Concord": {
+            "typeCounts": {
+                "ON_BICYCLE": 9,
+                "IN_VEHICLE": 28
+            }
+        },
+        "Riverwoods": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Warrenville": {
+            "typeCounts": {
+                "ON_BICYCLE": 10
+            }
+        },
+        "Lynbrook": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Cataumet": {
+            "typeCounts": {
+                "ON_BICYCLE": 1
+            }
+        },
+        "Ybbs an der Donau": {
+            "typeCounts": {
+                "ON_BICYCLE": 35,
+                "IN_VEHICLE": 8,
+                "ON_FOOT": 1
+            }
+        },
+        "Monster": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "ON_FOOT": 1
+            }
+        },
+        "Melk": {
+            "typeCounts": {
+                "ON_BICYCLE": 20,
+                "IN_VEHICLE": 7
+            }
+        },
+        "Hastings": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Windsor": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Little Falls": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Chehalis": {
+            "typeCounts": {
+                "IN_VEHICLE": 31
+            }
+        },
+        "Morris": {
+            "typeCounts": {
+                "IN_VEHICLE": 18
+            }
+        },
+        "Nottingham": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Sankt Andr\u00e4-W\u00f6rdern": {
+            "typeCounts": {
+                "ON_BICYCLE": 12,
+                "IN_VEHICLE": 1,
+                "ON_FOOT": 1
+            }
+        },
+        "Henderson": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Bowie": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "North Brunswick": {
+            "typeCounts": {
+                "IN_VEHICLE": 15
+            }
+        },
+        "Lakeville": {
+            "typeCounts": {
+                "ON_BICYCLE": 3,
+                "IN_VEHICLE": 19
+            }
+        },
+        "Brentwood": {
+            "typeCounts": {
+                "ON_FOOT": 1
+            }
+        },
+        "Ellicott City": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Sussex": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Missouri Valley": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Kisap\u00e1ti": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Milo": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Hapeville": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Narragansett Pier": {
+            "typeCounts": {
+                "IN_VEHICLE": 25
+            }
+        },
+        "Centralia": {
+            "typeCounts": {
+                "IN_VEHICLE": 19
+            }
+        },
+        "Johnstown": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Worcester": {
+            "typeCounts": {
+                "IN_VEHICLE": 10
+            }
+        },
+        "Poynette, Village of": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Vitry-sur-Seine": {
+            "typeCounts": {
+                "ON_BICYCLE": 4,
+                "IN_VEHICLE": 1
+            }
+        },
+        "Merino": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Exeter": {
+            "typeCounts": {
+                "ON_BICYCLE": 4,
+                "IN_VEHICLE": 35,
+                "ON_FOOT": 14
+            }
+        },
+        "Lombard": {
+            "typeCounts": {
+                "IN_VEHICLE": 7
+            }
+        },
+        "Wendover": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Halethorpe": {
+            "typeCounts": {
+                "IN_VEHICLE": 10
+            }
+        },
+        "Park Ridge": {
+            "typeCounts": {
+                "ON_BICYCLE": 10,
+                "IN_VEHICLE": 10,
+                "ON_FOOT": 8
+            }
+        },
+        "Jefferson Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Seneca": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Emmersdorf an der Donau": {
+            "typeCounts": {
+                "ON_BICYCLE": 3,
+                "IN_VEHICLE": 1,
+                "ON_FOOT": 2
+            }
+        },
+        "Waukee": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Shannock": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Clifton": {
+            "typeCounts": {
+                "IN_VEHICLE": 21
+            }
+        },
+        "Tukwila": {
+            "typeCounts": {
+                "IN_VEHICLE": 8
+            }
+        },
+        "Boston": {
+            "typeCounts": {
+                "ON_BICYCLE": 198,
+                "IN_VEHICLE": 1097,
+                "ON_FOOT": 789
+            }
+        },
+        "Chennevi\u00e8res": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 1,
+                "ON_FOOT": 1
+            }
+        },
+        "Stony Point": {
+            "typeCounts": {
+                "ON_BICYCLE": 31,
+                "IN_VEHICLE": 18,
+                "ON_FOOT": 10
+            }
+        },
+        "Belleville": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Hebron": {
+            "typeCounts": {
+                "ON_BICYCLE": 7,
+                "IN_VEHICLE": 1
+            }
+        },
+        "Thyrnau": {
+            "typeCounts": {
+                "ON_BICYCLE": 10
+            }
+        },
+        "Yorktown Heights": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Rolling Prairie": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Mosonmagyar\u00f3v\u00e1r": {
+            "typeCounts": {
+                "ON_BICYCLE": 47,
+                "IN_VEHICLE": 70,
+                "ON_FOOT": 5
+            }
+        },
+        "Irvington Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Mercer Island": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Amstelveen": {
+            "typeCounts": {
+                "ON_BICYCLE": 8,
+                "IN_VEHICLE": 12,
+                "ON_FOOT": 15
+            }
+        },
+        "Glenview": {
+            "typeCounts": {
+                "ON_BICYCLE": 4,
+                "IN_VEHICLE": 28
+            }
+        },
+        "Oregon": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Spring Valley": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "San Pablo": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Dutton": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Gy\u0151r\u00fajfalu": {
+            "typeCounts": {
+                "ON_BICYCLE": 4
+            }
+        },
+        "Houston": {
+            "typeCounts": {
+                "IN_VEHICLE": 6,
+                "ON_FOOT": 2
+            }
+        },
+        "Sausalito": {
+            "typeCounts": {
+                "ON_BICYCLE": 29,
+                "IN_VEHICLE": 1,
+                "ON_FOOT": 1
+            }
+        },
+        "Gary": {
+            "typeCounts": {
+                "IN_VEHICLE": 8
+            }
+        },
+        "Eagan": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 2,
+                "ON_FOOT": 1
+            }
+        },
+        "H\u00e9derv\u00e1r": {
+            "typeCounts": {
+                "ON_BICYCLE": 11,
+                "ON_FOOT": 1
+            }
+        },
+        "The Hague": {
+            "typeCounts": {
+                "ON_BICYCLE": 50,
+                "IN_VEHICLE": 51,
+                "ON_FOOT": 12
+            }
+        },
+        "Brookline": {
+            "typeCounts": {
+                "ON_BICYCLE": 6,
+                "IN_VEHICLE": 8,
+                "ON_FOOT": 2
+            }
+        },
+        "Oakland": {
+            "typeCounts": {
+                "ON_BICYCLE": 5,
+                "IN_VEHICLE": 104,
+                "ON_FOOT": 19
+            }
+        },
+        "Willington": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Middlefield": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Mauston": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Brooklyn": {
+            "typeCounts": {
+                "ON_BICYCLE": 61,
+                "IN_VEHICLE": 50,
+                "ON_FOOT": 110
+            }
+        },
+        "Freising": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Gouda": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Asten": {
+            "typeCounts": {
+                "ON_BICYCLE": 3
+            }
+        },
+        "Santa Ana": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Shelburne": {
+            "typeCounts": {
+                "IN_VEHICLE": 13
+            }
+        },
+        "Macedon": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Ardsley": {
+            "typeCounts": {
+                "ON_BICYCLE": 4,
+                "IN_VEHICLE": 3
+            }
+        },
+        "Levo\u010da": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "North Falmouth": {
+            "typeCounts": {
+                "ON_BICYCLE": 1
+            }
+        },
+        "Engelhartstetten": {
+            "typeCounts": {
+                "ON_BICYCLE": 6,
+                "IN_VEHICLE": 3,
+                "ON_FOOT": 1
+            }
+        },
+        "Avon": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Larchmont": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Best": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Littleton": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Dublin": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "East Windsor Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Braeside": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Irwin": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Dutch Flat": {
+            "typeCounts": {
+                "IN_VEHICLE": 7
+            }
+        },
+        "Severn": {
+            "typeCounts": {
+                "IN_VEHICLE": 15,
+                "ON_FOOT": 2
+            }
+        },
+        "Rensselaer": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Krnjak": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Hampton": {
+            "typeCounts": {
+                "ON_BICYCLE": 17,
+                "IN_VEHICLE": 5
+            }
+        },
+        "Woburn": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Bayankhutag": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "L\u00e1batlan": {
+            "typeCounts": {
+                "ON_BICYCLE": 2
+            }
+        },
+        "Tarrytown": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "IN_VEHICLE": 21
+            }
+        },
+        "Nack": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Chaplin": {
+            "typeCounts": {
+                "ON_BICYCLE": 15,
+                "IN_VEHICLE": 19
+            }
+        },
+        "Zeiselmauer-Wolfpassing": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "IN_VEHICLE": 1
+            }
+        },
+        "Bethel": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "North Highlands": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Norwell": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Bridal Veil": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "West Sparta": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Bedford": {
+            "typeCounts": {
+                "IN_VEHICLE": 11
+            }
+        },
+        "Avoca": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Islamorada": {
+            "typeCounts": {
+                "IN_VEHICLE": 19,
+                "ON_FOOT": 1
+            }
+        },
+        "Big Pine": {
+            "typeCounts": {
+                "IN_VEHICLE": 16,
+                "ON_FOOT": 2
+            }
+        },
+        "Bedford Park": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Snohomish": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Alpine": {
+            "typeCounts": {
+                "ON_BICYCLE": 35,
+                "IN_VEHICLE": 3,
+                "ON_FOOT": 1
+            }
+        },
+        "Stuart": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "West Wareham": {
+            "typeCounts": {
+                "ON_BICYCLE": 2
+            }
+        },
+        "Elko": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Marseilles": {
+            "typeCounts": {
+                "IN_VEHICLE": 9
+            }
+        },
+        "Clarks": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Croton-On-Hudson": {
+            "typeCounts": {
+                "ON_BICYCLE": 9,
+                "IN_VEHICLE": 8,
+                "ON_FOOT": 3
+            }
+        },
+        "Cos Cob": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "River Grove": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "North Lima": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Holland": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Camillus": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Langley": {
+            "typeCounts": {
+                "ON_FOOT": 1
+            }
+        },
+        "G\u00f6d": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Visegr\u00e1d": {
+            "typeCounts": {
+                "ON_BICYCLE": 3,
+                "IN_VEHICLE": 14,
+                "ON_FOOT": 13
+            }
+        },
+        "Fairview": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Santa Cruz": {
+            "typeCounts": {
+                "IN_VEHICLE": 3,
+                "ON_FOOT": 2
+            }
+        },
+        "Swampscott": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Spata Loutsas": {
+            "typeCounts": {
+                "IN_VEHICLE": 37,
+                "ON_FOOT": 15
+            }
+        },
+        "Moron": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "St Louis": {
+            "typeCounts": {
+                "IN_VEHICLE": 9
+            }
+        },
+        "Westwood": {
+            "typeCounts": {
+                "IN_VEHICLE": 24
+            }
+        },
+        "Buffalo Grove": {
+            "typeCounts": {
+                "ON_BICYCLE": 114,
+                "IN_VEHICLE": 1704,
+                "ON_FOOT": 277
+            }
+        },
+        "Bratislava": {
+            "typeCounts": {
+                "ON_BICYCLE": 115,
+                "IN_VEHICLE": 143,
+                "ON_FOOT": 116
+            }
+        },
+        "Millington": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Tomah": {
+            "typeCounts": {
+                "IN_VEHICLE": 37
+            }
+        },
+        "Newport Beach": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Vacaville": {
+            "typeCounts": {
+                "IN_VEHICLE": 13
+            }
+        },
+        "La Center": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Lompoc": {
+            "typeCounts": {
+                "ON_BICYCLE": 4,
+                "IN_VEHICLE": 55,
+                "ON_FOOT": 2
+            }
+        },
+        "Miami": {
+            "typeCounts": {
+                "IN_VEHICLE": 202,
+                "ON_FOOT": 71
+            }
+        },
+        "Ashford": {
+            "typeCounts": {
+                "IN_VEHICLE": 7
+            }
+        },
+        "La Salle": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Watervliet Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Eger": {
+            "typeCounts": {
+                "IN_VEHICLE": 16,
+                "ON_FOOT": 36
+            }
+        },
+        "Fall Creek, Village of": {
+            "typeCounts": {
+                "IN_VEHICLE": 28
+            }
+        },
+        "Mishawaka": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Jessup": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Etyek": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Tomponskiy Ulus": {
+            "typeCounts": {
+                "IN_VEHICLE": 9
+            }
+        },
+        "G\u00f6ttlesbrunn-Arbesthal": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "F\u00fczesabony": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Rowe": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Golf": {
+            "typeCounts": {
+                "ON_BICYCLE": 3,
+                "IN_VEHICLE": 3
+            }
+        },
+        "Nagyszentj\u00e1nos": {
+            "typeCounts": {
+                "ON_BICYCLE": 6
+            }
+        },
+        "Pawtucket": {
+            "typeCounts": {
+                "ON_BICYCLE": 48,
+                "IN_VEHICLE": 94,
+                "ON_FOOT": 5
+            }
+        },
+        "Nunda": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Leopoldov": {
+            "typeCounts": {
+                "IN_VEHICLE": 22,
+                "ON_FOOT": 2
+            }
+        },
+        "Krummnu\u00dfbaum": {
+            "typeCounts": {
+                "ON_BICYCLE": 15,
+                "IN_VEHICLE": 6
+            }
+        },
+        "Buitenkaag": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Westampton Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Zwentendorf an der Donau": {
+            "typeCounts": {
+                "ON_BICYCLE": 42,
+                "IN_VEHICLE": 6
+            }
+        },
+        "Beijing": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "IN_VEHICLE": 123,
+                "ON_FOOT": 52
+            }
+        },
+        "West Windsor Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Livingston": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Galen": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Darien": {
+            "typeCounts": {
+                "IN_VEHICLE": 38
+            }
+        },
+        "Kremmling": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Ada": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Wilton": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Krenglbach": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "New Hudson": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Chalandri": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Gansevoort": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Fleming": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Riverdale": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Princeton Junction": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Belvedere-Tiburon": {
+            "typeCounts": {
+                "ON_BICYCLE": 19,
+                "IN_VEHICLE": 1
+            }
+        },
+        "Naperville": {
+            "typeCounts": {
+                "ON_BICYCLE": 80,
+                "IN_VEHICLE": 52,
+                "ON_FOOT": 35
+            }
+        },
+        "Palmer": {
+            "typeCounts": {
+                "IN_VEHICLE": 10
+            }
+        },
+        "Perth": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Redondo Beach": {
+            "typeCounts": {
+                "ON_BICYCLE": 24,
+                "IN_VEHICLE": 52,
+                "ON_FOOT": 2
+            }
+        },
+        "Willow Grove": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Saugatuck": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Federal Way": {
+            "typeCounts": {
+                "IN_VEHICLE": 9
+            }
+        },
+        "Ashton": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Baltimore": {
+            "typeCounts": {
+                "ON_BICYCLE": 5,
+                "IN_VEHICLE": 86,
+                "ON_FOOT": 49
+            }
+        },
+        "Wadsworth": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Downers Grove": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Tullytown": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Nov\u00e1 Vieska": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Livermore": {
+            "typeCounts": {
+                "IN_VEHICLE": 13
+            }
+        },
+        "Houten": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Hollister": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Kloten": {
+            "typeCounts": {
+                "IN_VEHICLE": 29,
+                "ON_FOOT": 10
+            }
+        },
+        "Lynnwood": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Oxford": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Gro\u00df-Gerau": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Berg": {
+            "typeCounts": {
+                "ON_BICYCLE": 1
+            }
+        },
+        "Hammond": {
+            "typeCounts": {
+                "IN_VEHICLE": 8
+            }
+        },
+        "King Ferry": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Liptovsk\u00fd Mikul\u00e1\u0161": {
+            "typeCounts": {
+                "IN_VEHICLE": 32,
+                "ON_FOOT": 24
+            }
+        },
+        "Winlock": {
+            "typeCounts": {
+                "IN_VEHICLE": 17
+            }
+        },
+        "Freeport": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Bezenye": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "IN_VEHICLE": 1
+            }
+        },
+        "Vught": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Maumee": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "'s-Gravenzande": {
+            "typeCounts": {
+                "ON_BICYCLE": 4,
+                "IN_VEHICLE": 1
+            }
+        },
+        "Shipshewana": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "East Rockaway": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Ch\u013eaba": {
+            "typeCounts": {
+                "IN_VEHICLE": 8
+            }
+        },
+        "Woodbine": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Stratford": {
+            "typeCounts": {
+                "IN_VEHICLE": 30
+            }
+        },
+        "Milford": {
+            "typeCounts": {
+                "IN_VEHICLE": 73,
+                "ON_FOOT": 3
+            }
+        },
+        "Rodeo": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Sankt Nikola an der Donau": {
+            "typeCounts": {
+                "ON_BICYCLE": 4
+            }
+        },
+        "Marina del Rey": {
+            "typeCounts": {
+                "ON_BICYCLE": 16
+            }
+        },
+        "Adelaide Metcalfe": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Pilesgrove Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "New York": {
+            "typeCounts": {
+                "ON_BICYCLE": 274,
+                "IN_VEHICLE": 1901,
+                "ON_FOOT": 1599
+            }
+        },
+        "Zeeland Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "DeRuyter": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "\u00c1cs": {
+            "typeCounts": {
+                "ON_BICYCLE": 9,
+                "IN_VEHICLE": 5
+            }
+        },
+        "Velika Gorica": {
+            "typeCounts": {
+                "IN_VEHICLE": 7,
+                "ON_FOOT": 1
+            }
+        },
+        "Mt. Laurel": {
+            "typeCounts": {
+                "IN_VEHICLE": 11
+            }
+        },
+        "Winkel": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Weehawken Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Caledonia, Village of": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Upper Dublin Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Congers": {
+            "typeCounts": {
+                "ON_BICYCLE": 9
+            }
+        },
+        "Philadelphia": {
+            "typeCounts": {
+                "ON_BICYCLE": 111,
+                "IN_VEHICLE": 760,
+                "ON_FOOT": 518
+            }
+        },
+        "Lincoln Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Exira": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Scharndorf": {
+            "typeCounts": {
+                "ON_BICYCLE": 13,
+                "IN_VEHICLE": 1
+            }
+        },
+        "Sankt Valentin": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "B\u00fcttelborn": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Tulln an der Donau": {
+            "typeCounts": {
+                "ON_BICYCLE": 30,
+                "IN_VEHICLE": 10,
+                "ON_FOOT": 1
+            }
+        },
+        "South Barrington": {
+            "typeCounts": {
+                "IN_VEHICLE": 2,
+                "ON_FOOT": 2
+            }
+        },
+        "Lexington": {
+            "typeCounts": {
+                "ON_BICYCLE": 6,
+                "IN_VEHICLE": 28
+            }
+        },
+        "Tavistock": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Blandford-Blenheim": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "New Stanton": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Middleborough": {
+            "typeCounts": {
+                "ON_BICYCLE": 1
+            }
+        },
+        "Westlake": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Joliet": {
+            "typeCounts": {
+                "IN_VEHICLE": 7
+            }
+        },
+        "Abyyskiy Ulus": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "West Linn": {
+            "typeCounts": {
+                "ON_BICYCLE": 6,
+                "IN_VEHICLE": 7,
+                "ON_FOOT": 2
+            }
+        },
+        "Locke": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Lambton Shores": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Framingham": {
+            "typeCounts": {
+                "IN_VEHICLE": 15
+            }
+        },
+        "Palatine": {
+            "typeCounts": {
+                "ON_BICYCLE": 15,
+                "IN_VEHICLE": 25,
+                "ON_FOOT": 8
+            }
+        },
+        "Eaton Rapids": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Guilford": {
+            "typeCounts": {
+                "IN_VEHICLE": 31
+            }
+        },
+        "Nutley Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Ashaway": {
+            "typeCounts": {
+                "IN_VEHICLE": 9
+            }
+        },
+        "Stafford Springs": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Valenton": {
+            "typeCounts": {
+                "ON_BICYCLE": 1
+            }
+        },
+        "Pichl bei Wels": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Ferihegy": {
+            "typeCounts": {
+                "ON_FOOT": 1
+            }
+        },
+        "Zebeg\u00e9ny": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "San Mateo": {
+            "typeCounts": {
+                "ON_BICYCLE": 121,
+                "IN_VEHICLE": 290,
+                "ON_FOOT": 9
+            }
+        },
+        "Clarendon Hills": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Fort Washington": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Mu\u017ela": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Paramount": {
+            "typeCounts": {
+                "ON_BICYCLE": 6
+            }
+        },
+        "Darn\u00f3zseli": {
+            "typeCounts": {
+                "ON_BICYCLE": 15,
+                "IN_VEHICLE": 1
+            }
+        },
+        "Richmond": {
+            "typeCounts": {
+                "IN_VEHICLE": 48
+            }
+        },
+        "Bridgeport": {
+            "typeCounts": {
+                "IN_VEHICLE": 40
+            }
+        },
+        "Schenectady": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Szob": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Bonnechere Valley": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "North Jackson": {
+            "typeCounts": {
+                "IN_VEHICLE": 11
+            }
+        },
+        "West Newton": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "West Point": {
+            "typeCounts": {
+                "ON_BICYCLE": 15,
+                "IN_VEHICLE": 12,
+                "ON_FOOT": 8
+            }
+        },
+        "Langhorne": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Keene": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Chicopee": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Haslau-Maria Ellend": {
+            "typeCounts": {
+                "ON_BICYCLE": 28,
+                "IN_VEHICLE": 9,
+                "ON_FOOT": 3
+            }
+        },
+        "Long Barn": {
+            "typeCounts": {
+                "ON_FOOT": 1
+            }
+        },
+        "Woodridge": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Southeast": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Bellingham": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Nov\u00e9 Z\u00e1mky": {
+            "typeCounts": {
+                "IN_VEHICLE": 6,
+                "ON_FOOT": 1
+            }
+        },
+        "Bellmawr": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Cortlandt Manor": {
+            "typeCounts": {
+                "ON_BICYCLE": 10,
+                "IN_VEHICLE": 6
+            }
+        },
+        "Mount Vernon": {
+            "typeCounts": {
+                "IN_VEHICLE": 15,
+                "ON_FOOT": 1
+            }
+        },
+        "Fair Haven": {
+            "typeCounts": {
+                "IN_VEHICLE": 7
+            }
+        },
+        "Rochelle Park Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "North Scituate": {
+            "typeCounts": {
+                "ON_BICYCLE": 65,
+                "IN_VEHICLE": 17,
+                "ON_FOOT": 14
+            }
+        },
+        "White Creek": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Nangis": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "North Dighton": {
+            "typeCounts": {
+                "ON_BICYCLE": 19
+            }
+        },
+        "Ridgefield": {
+            "typeCounts": {
+                "IN_VEHICLE": 19
+            }
+        },
+        "Oakbrook Terrace": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "D\u00f6m\u00f6s": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Dublin Airport": {
+            "typeCounts": {
+                "IN_VEHICLE": 3,
+                "ON_FOOT": 2
+            }
+        },
+        "Glen Burnie": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "IN_VEHICLE": 31,
+                "ON_FOOT": 1
+            }
+        },
+        "Hancock": {
+            "typeCounts": {
+                "IN_VEHICLE": 20,
+                "ON_FOOT": 16
+            }
+        },
+        "Southbury": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Lake Oswego": {
+            "typeCounts": {
+                "IN_VEHICLE": 3
+            }
+        },
+        "Charlestown": {
+            "typeCounts": {
+                "IN_VEHICLE": 10
+            }
+        },
+        "Ayer": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Delft": {
+            "typeCounts": {
+                "ON_BICYCLE": 18,
+                "IN_VEHICLE": 4
+            }
+        },
+        "Tacoma": {
+            "typeCounts": {
+                "IN_VEHICLE": 37
+            }
+        },
+        "Venice": {
+            "typeCounts": {
+                "IN_VEHICLE": 11
+            }
+        },
+        "Las Vegas": {
+            "typeCounts": {
+                "IN_VEHICLE": 12
+            }
+        },
+        "Saratoga Springs": {
+            "typeCounts": {
+                "IN_VEHICLE": 6
+            }
+        },
+        "Cook Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Warfordsburg": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Vleuten": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Dartmouth": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "ON_FOOT": 1
+            }
+        },
+        "Homestead": {
+            "typeCounts": {
+                "IN_VEHICLE": 42,
+                "ON_FOOT": 1
+            }
+        },
+        "NAS Point Mugu": {
+            "typeCounts": {
+                "ON_BICYCLE": 3
+            }
+        },
+        "Saunderstown": {
+            "typeCounts": {
+                "ON_BICYCLE": 3,
+                "IN_VEHICLE": 8,
+                "ON_FOOT": 7
+            }
+        },
+        "West Greenwich": {
+            "typeCounts": {
+                "IN_VEHICLE": 46
+            }
+        },
+        "Wilmette": {
+            "typeCounts": {
+                "ON_BICYCLE": 2,
+                "IN_VEHICLE": 23
+            }
+        },
+        "Lieusaint": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Churchville": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Merrick": {
+            "typeCounts": {
+                "IN_VEHICLE": 7,
+                "ON_FOOT": 8
+            }
+        },
+        "Puchenau": {
+            "typeCounts": {
+                "ON_BICYCLE": 9
+            }
+        },
+        "Beverly Hills": {
+            "typeCounts": {
+                "ON_BICYCLE": 30
+            }
+        },
+        "Old Mill Creek": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Deptford Township": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Rossford": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Kismaros": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Schipluiden": {
+            "typeCounts": {
+                "ON_BICYCLE": 3
+            }
+        },
+        "Haddam": {
+            "typeCounts": {
+                "IN_VEHICLE": 5
+            }
+        },
+        "Hal\u00e1szi": {
+            "typeCounts": {
+                "ON_BICYCLE": 18,
+                "IN_VEHICLE": 2
+            }
+        },
+        "W\u00fcrmla": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Marolles-en-Brie": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 5,
+                "ON_FOOT": 2
+            }
+        },
+        "Rockville Centre": {
+            "typeCounts": {
+                "IN_VEHICLE": 4
+            }
+        },
+        "Ellsworth": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Athens": {
+            "typeCounts": {
+                "IN_VEHICLE": 48,
+                "ON_FOOT": 69
+            }
+        },
+        "Cranbury": {
+            "typeCounts": {
+                "IN_VEHICLE": 12
+            }
+        },
+        "Countryside": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Milan": {
+            "typeCounts": {
+                "IN_VEHICLE": 8
+            }
+        },
+        "Sharon": {
+            "typeCounts": {
+                "ON_BICYCLE": 19,
+                "IN_VEHICLE": 77,
+                "ON_FOOT": 14
+            }
+        },
+        "Portola Valley": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "La Porte": {
+            "typeCounts": {
+                "IN_VEHICLE": 11
+            }
+        },
+        "Plantsville": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Tumwater": {
+            "typeCounts": {
+                "IN_VEHICLE": 7
+            }
+        },
+        "Odenton": {
+            "typeCounts": {
+                "IN_VEHICLE": 7,
+                "ON_FOOT": 6
+            }
+        },
+        "Danielson": {
+            "typeCounts": {
+                "ON_BICYCLE": 3,
+                "ON_FOOT": 1
+            }
+        },
+        "Hlohovec": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "Newton Highlands": {
+            "typeCounts": {
+                "ON_BICYCLE": 1
+            }
+        },
+        "Rijswijk": {
+            "typeCounts": {
+                "ON_BICYCLE": 9
+            }
+        },
+        "V\u00e1c": {
+            "typeCounts": {
+                "ON_BICYCLE": 1,
+                "IN_VEHICLE": 7,
+                "ON_FOOT": 2
+            }
+        },
+        "Manville": {
+            "typeCounts": {
+                "ON_BICYCLE": 4
+            }
+        },
+        "Braddock": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Kirkland": {
+            "typeCounts": {
+                "IN_VEHICLE": 2
+            }
+        },
+        "R\u00faba\u0148": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Urbandale": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        },
+        "Pennsville": {
+            "typeCounts": {
+                "IN_VEHICLE": 1
+            }
+        }
+    }
+}
