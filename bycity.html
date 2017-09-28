@@ -309,7 +309,7 @@
                     const walkingBounds = keyCity.select('#ON_FOOT .centroid').node().getBoundingClientRect();
                     const vehicleBounds = keyCity.select('#IN_VEHICLE .centroid').node().getBoundingClientRect();
                     const cyclingBounds = keyCity.select('#ON_BICYCLE .centroid').node().getBoundingClientRect();
-                    const yOffset = -containerBounds.y + cyclingBounds.y + cyclingBounds.height;
+                    const yOffset = -containerBounds.top + cyclingBounds.top;
                     const yIncrement = 64;
                     const x = 360;
                     const annotations = [
@@ -317,8 +317,8 @@
                             note: {
                                 title: 'Cycling'
                             },
-                            x: -containerBounds.x + cyclingBounds.x + cyclingBounds.width,
-                            y: -containerBounds.y + cyclingBounds.y + cyclingBounds.height,
+                            x: -containerBounds.left + cyclingBounds.left,
+                            y: -containerBounds.top + cyclingBounds.top,
                             nx: x,
                             ny: yOffset,
                             color: cyclingTextColor
@@ -327,8 +327,8 @@
                             note: {
                                 title: 'Walking'
                             },
-                            x: -containerBounds.x + walkingBounds.x + walkingBounds.width,
-                            y: -containerBounds.y +walkingBounds.y + walkingBounds.height,
+                            x: -containerBounds.left + walkingBounds.left,
+                            y: -containerBounds.top +walkingBounds.top,
                             nx: x,
                             ny: yOffset + 1 * yIncrement,
                             color: walkingTextColor
@@ -338,8 +338,8 @@
                                 title: 'In a Vehicle',
                                 // label: 'Car, Bus, Train, etc'
                             },
-                            x: -containerBounds.x + vehicleBounds.x + vehicleBounds.width,
-                            y: -containerBounds.y + vehicleBounds.y + vehicleBounds.height,
+                            x: -containerBounds.left + vehicleBounds.left,
+                            y: -containerBounds.top + vehicleBounds.top,
                             nx: x,
                             ny: yOffset + 2 * yIncrement,
                             color: vehicleTextColor
